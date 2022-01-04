@@ -13,3 +13,6 @@
 #### Lv2
 - 오픈채팅방: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv2/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/42888)
 - 수식 최대화: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv2/%EC%88%98%EC%8B%9D%20%EC%B5%9C%EB%8C%80%ED%99%94.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/67257)
+#### Lv3
+- 단어 변환: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv3/%EB%8B%A8%EC%96%B4%20%EB%B3%80%ED%99%98.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/43163)
+- [1차] 셔틀버스: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv3/%5B1%EC%B0%A8%5D%20%EC%85%94%ED%8B%80%EB%B2%84%EC%8A%A4.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/17678)

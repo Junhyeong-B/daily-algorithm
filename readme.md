@@ -17,6 +17,7 @@
 - 전력망을 둘로 나누기: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv2/%EC%A0%84%EB%A0%A5%EB%A7%9D%EC%9D%84%20%EB%91%98%EB%A1%9C%20%EB%82%98%EB%88%84%EA%B8%B0.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/86971)
 - 피로도: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv2/%ED%94%BC%EB%A1%9C%EB%8F%84.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/87946)
 - 보석 쇼핑: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv2/%EB%B3%B4%EC%84%9D%20%EC%87%BC%ED%95%91.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/67258)
+- 보석 쇼핑: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv2/%EA%B4%84%ED%98%B8%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/76502)
 #### Lv3
 - 단어 변환: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv3/%EB%8B%A8%EC%96%B4%20%EB%B3%80%ED%99%98.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/43163)
 - [1차] 셔틀버스: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv3/%5B1%EC%B0%A8%5D%20%EC%85%94%ED%8B%80%EB%B2%84%EC%8A%A4.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/17678)

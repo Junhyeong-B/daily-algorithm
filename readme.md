@@ -24,6 +24,9 @@
 - 게임 맵 최단거리: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv2/%EA%B2%8C%EC%9E%84%20%EB%A7%B5%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/1844)
 - 거리두기 확인하기: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv2/%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/81302)
 - k진수에서 소수 개수 구하기: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv2/k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C%20%EC%86%8C%EC%88%98%20%EA%B0%9C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/92335)
+- 주차 요금 계산: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv2/%EC%A3%BC%EC%B0%A8%20%EC%9A%94%EA%B8%88%20%EA%B3%84%EC%82%B0.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/92341)
+- 메뉴 리뉴얼: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv2/%EB%A9%94%EB%89%B4%20%EB%A6%AC%EB%89%B4%EC%96%BC.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/72411)
 #### Lv3
 - 단어 변환: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv3/%EB%8B%A8%EC%96%B4%20%EB%B3%80%ED%99%98.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/43163)
 - [1차] 셔틀버스: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv3/%5B1%EC%B0%A8%5D%20%EC%85%94%ED%8B%80%EB%B2%84%EC%8A%A4.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/17678)
+- 야근 지수: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv3/%EC%95%BC%EA%B7%BC%20%EC%A7%80%EC%88%98.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/12927)

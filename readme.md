@@ -26,6 +26,8 @@
 - k진수에서 소수 개수 구하기: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv2/k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C%20%EC%86%8C%EC%88%98%20%EA%B0%9C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/92335)
 - 주차 요금 계산: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv2/%EC%A3%BC%EC%B0%A8%20%EC%9A%94%EA%B8%88%20%EA%B3%84%EC%82%B0.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/92341)
 - 메뉴 리뉴얼: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv2/%EB%A9%94%EB%89%B4%20%EB%A6%AC%EB%89%B4%EC%96%BC.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/72411)
+- 배달: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv2/%EB%B0%B0%EB%8B%AC.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/12978)
+- 모음 사전: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv2/%EB%AA%A8%EC%9D%8C%20%EC%82%AC%EC%A0%84.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/84512)
 #### Lv3
 - 단어 변환: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv3/%EB%8B%A8%EC%96%B4%20%EB%B3%80%ED%99%98.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/43163)
 - [1차] 셔틀버스: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv3/%5B1%EC%B0%A8%5D%20%EC%85%94%ED%8B%80%EB%B2%84%EC%8A%A4.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/17678)

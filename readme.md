@@ -46,7 +46,8 @@
 - 16.3Sum Closest: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/16.%203Sum%20Closest.js) | [[문제]](https://leetcode.com/problems/3sum-closest/)
 - 17.Letter Combinations of a Phone Number: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.js) | [[문제]](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 - 18.4Sum: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/18.%204Sum.js) | [[문제]](https://leetcode.com/problems/4sum/)
+- 22.Generate Parentheses: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/22.%20Generate%20Parentheses.js) | [[문제]](https://leetcode.com/problems/generate-parentheses/)
 - 78.Subsets: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/78.%20Subsets.js) | [[문제]](https://leetcode.com/problems/subsets/)
 #### Hard
-- 10.Regular Expression Matching
-: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Hard/10.%20Regular%20Expression%20Matching.js) | [[문제]](https://leetcode.com/problems/regular-expression-matching/)
+- 10.Regular Expression Matching: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Hard/10.%20Regular%20Expression%20Matching.js) | [[문제]](https://leetcode.com/problems/regular-expression-matching/)
+- 32.Longest Valid Parentheses: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Hard/32.%20Longest%20Valid%20Parentheses.js) | [[문제]](https://leetcode.com/problems/longest-valid-parentheses/)

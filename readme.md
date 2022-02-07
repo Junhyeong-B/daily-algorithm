@@ -50,8 +50,10 @@
 - 36.Valid Sudoku: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/36.%20Valid%20Sudoku.js) | [[문제]](https://leetcode.com/problems/valid-sudoku/)
 - 39.Combination Sum: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/39.%20Combination%20Sum.js) | [[문제]](https://leetcode.com/problems/combination-sum/)
 - 46.Permutations: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/46.%20Permutations.js) | [[문제]](https://leetcode.com/problems/permutations/)
+- 47.Permutations II: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/47.%20Permutations%20II.js) | [[문제]](https://leetcode.com/problems/permutations-ii/)
 - 78.Subsets: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/78.%20Subsets.js) | [[문제]](https://leetcode.com/problems/subsets/)
 #### Hard
 - 10.Regular Expression Matching: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Hard/10.%20Regular%20Expression%20Matching.js) | [[문제]](https://leetcode.com/problems/regular-expression-matching/)
 - 32.Longest Valid Parentheses: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Hard/32.%20Longest%20Valid%20Parentheses.js) | [[문제]](https://leetcode.com/problems/longest-valid-parentheses/)
 - 41.First Missing Positive: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Hard/41.%20First%20Missing%20Positive.js) | [[문제]](https://leetcode.com/problems/first-missing-positive/)
+- 42.Trapping Rain Water: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Hard/42.%20Trapping%20Rain%20Water.js) | [[문제]](https://leetcode.com/problems/trapping-rain-water/)

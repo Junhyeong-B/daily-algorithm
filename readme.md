@@ -57,6 +57,8 @@
 - 48.Rotate Image: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/48.%20Rotate%20Image.js) | [[문제]](https://leetcode.com/problems/rotate-image/)
 - 49.Group Anagrams: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/49.%20Group%20Anagrams.js) | [[문제]](https://leetcode.com/problems/group-anagrams/)
 - 54.Spiral Matrix: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/54.%20Spiral%20Matrix.js) | [[문제]](https://leetcode.com/problems/spiral-matrix/)
+- 55.Jump Game: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/55.%20Jump%20Game.js) | [[문제]](https://leetcode.com/problems/jump-game/)
+- 56.Merge Intervals: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/56.%20Merge%20Intervals.js) | [[문제]](https://leetcode.com/problems/merge-intervals/)
 - 78.Subsets: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/78.%20Subsets.js) | [[문제]](https://leetcode.com/problems/subsets/)
 #### Hard
 - 10.Regular Expression Matching: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Hard/10.%20Regular%20Expression%20Matching.js) | [[문제]](https://leetcode.com/problems/regular-expression-matching/)

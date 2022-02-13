@@ -41,6 +41,7 @@
 
 #### Easy
 - 53.Maximum Subarray: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Easy/53.%20Maximum%20Subarray.js) | [[문제]](https://leetcode.com/problems/maximum-subarray/)
+- 58.Length of Last Word: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Easy/58.%20Length%20of%20Last%20Word.js) | [[문제]](https://leetcode.com/problems/length-of-last-word/)
   
 #### Medium
 - 5.Longest Palindromic Substring: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/5.%20Longest%20Palindromic%20Substring.js) | [[문제]](https://leetcode.com/problems/longest-palindromic-substring/)
@@ -59,6 +60,8 @@
 - 54.Spiral Matrix: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/54.%20Spiral%20Matrix.js) | [[문제]](https://leetcode.com/problems/spiral-matrix/)
 - 55.Jump Game: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/55.%20Jump%20Game.js) | [[문제]](https://leetcode.com/problems/jump-game/)
 - 56.Merge Intervals: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/56.%20Merge%20Intervals.js) | [[문제]](https://leetcode.com/problems/merge-intervals/)
+- 57.Insert Interval: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/57.%20Insert%20Interval.js) | [[문제]](https://leetcode.com/problems/insert-interval/)
+- 59.Spiral Matrix II: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/59.%20Spiral%20Matrix%20II.js) | [[문제]](https://leetcode.com/problems/spiral-matrix-ii/)
 - 78.Subsets: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/78.%20Subsets.js) | [[문제]](https://leetcode.com/problems/subsets/)
 #### Hard
 - 10.Regular Expression Matching: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Hard/10.%20Regular%20Expression%20Matching.js) | [[문제]](https://leetcode.com/problems/regular-expression-matching/)

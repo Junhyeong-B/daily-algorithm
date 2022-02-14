@@ -62,6 +62,7 @@
 - 56.Merge Intervals: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/56.%20Merge%20Intervals.js) | [[문제]](https://leetcode.com/problems/merge-intervals/)
 - 57.Insert Interval: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/57.%20Insert%20Interval.js) | [[문제]](https://leetcode.com/problems/insert-interval/)
 - 59.Spiral Matrix II: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/59.%20Spiral%20Matrix%20II.js) | [[문제]](https://leetcode.com/problems/spiral-matrix-ii/)
+- 62.Unique Paths: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/62.%20Unique%20Paths.js) | [[문제]](https://leetcode.com/problems/unique-paths/)
 - 78.Subsets: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/78.%20Subsets.js) | [[문제]](https://leetcode.com/problems/subsets/)
 #### Hard
 - 10.Regular Expression Matching: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Hard/10.%20Regular%20Expression%20Matching.js) | [[문제]](https://leetcode.com/problems/regular-expression-matching/)
@@ -70,3 +71,4 @@
 - 42.Trapping Rain Water: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Hard/42.%20Trapping%20Rain%20Water.js) | [[문제]](https://leetcode.com/problems/trapping-rain-water/)
 - 51.N-Queens: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Hard/51.%20N-Queens.js) | [[문제]](https://leetcode.com/problems/n-queens/)
 - 52.N-Queens II: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Hard/52.%20N-Queens%20II.js) | [[문제]](https://leetcode.com/problems/n-queens-ii/)
+- 60.Permutation Sequence: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Hard/60.%20Permutation%20Sequence.js) | [[문제]](https://leetcode.com/problems/permutation-sequence/)

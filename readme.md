@@ -63,6 +63,8 @@
 - 57.Insert Interval: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/57.%20Insert%20Interval.js) | [[문제]](https://leetcode.com/problems/insert-interval/)
 - 59.Spiral Matrix II: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/59.%20Spiral%20Matrix%20II.js) | [[문제]](https://leetcode.com/problems/spiral-matrix-ii/)
 - 62.Unique Paths: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/62.%20Unique%20Paths.js) | [[문제]](https://leetcode.com/problems/unique-paths/)
+- 63.Unique Paths II: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/63.%20Unique%20Paths%20II.js) | [[문제]](https://leetcode.com/problems/unique-paths-ii/)
+- 64.Minimum Path Sum: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/64.%20Minimum%20Path%20Sum.js) | [[문제]](https://leetcode.com/problems/minimum-path-sum/)
 - 78.Subsets: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/78.%20Subsets.js) | [[문제]](https://leetcode.com/problems/subsets/)
 #### Hard
 - 10.Regular Expression Matching: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Hard/10.%20Regular%20Expression%20Matching.js) | [[문제]](https://leetcode.com/problems/regular-expression-matching/)

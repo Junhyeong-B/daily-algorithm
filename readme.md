@@ -67,6 +67,8 @@
 - 64.Minimum Path Sum: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/64.%20Minimum%20Path%20Sum.js) | [[문제]](https://leetcode.com/problems/minimum-path-sum/)
 - 73.Set Matrix Zeroes: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/73.%20Set%20Matrix%20Zeroes.js) | [[문제]](https://leetcode.com/problems/set-matrix-zeroes/)
 - 74.Search a 2D Matrix: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/74.%20Search%20a%202D%20Matrix.js) | [[문제]](https://leetcode.com/problems/search-a-2d-matrix/)
+- 75.Sort Colors: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/75.%20Sort%20Colors.js) | [[문제]](https://leetcode.com/problems/sort-colors/)
+- 77.Combinations: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/77.%20Combinations.js) | [[문제]](https://leetcode.com/problems/combinations/)
 - 78.Subsets: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/78.%20Subsets.js) | [[문제]](https://leetcode.com/problems/subsets/)
 #### Hard
 - 10.Regular Expression Matching: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Hard/10.%20Regular%20Expression%20Matching.js) | [[문제]](https://leetcode.com/problems/regular-expression-matching/)

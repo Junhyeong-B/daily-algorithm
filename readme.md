@@ -70,6 +70,8 @@
 - 75.Sort Colors: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/75.%20Sort%20Colors.js) | [[문제]](https://leetcode.com/problems/sort-colors/)
 - 77.Combinations: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/77.%20Combinations.js) | [[문제]](https://leetcode.com/problems/combinations/)
 - 78.Subsets: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/78.%20Subsets.js) | [[문제]](https://leetcode.com/problems/subsets/)
+- 79.Word Search: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/79.%20Word%20Search.js) | [[문제]](https://leetcode.com/problems/word-search/)
+- 80.Remove Duplicates from Sorted Array II: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.js) | [[문제]](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
 #### Hard
 - 10.Regular Expression Matching: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Hard/10.%20Regular%20Expression%20Matching.js) | [[문제]](https://leetcode.com/problems/regular-expression-matching/)
 - 32.Longest Valid Parentheses: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Hard/32.%20Longest%20Valid%20Parentheses.js) | [[문제]](https://leetcode.com/problems/longest-valid-parentheses/)

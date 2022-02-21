@@ -43,6 +43,8 @@
 - 53.Maximum Subarray: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Easy/53.%20Maximum%20Subarray.js) | [[문제]](https://leetcode.com/problems/maximum-subarray/)
 - 58.Length of Last Word: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Easy/58.%20Length%20of%20Last%20Word.js) | [[문제]](https://leetcode.com/problems/length-of-last-word/)
 - 88.Merge Sorted Array: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Easy/88.%20Merge%20Sorted%20Array.js) | [[문제]](https://leetcode.com/problems/merge-sorted-array/)
+- 118.Pascal's Triangle: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Easy/118.%20Pascal's%20Triangle.js) | [[문제]](https://leetcode.com/problems/pascals-triangle/)
+- 119.Pascal's Triangle II: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Easy/119.%20Pascal's%20Triangle%20II.js) | [[문제]](https://leetcode.com/problems/pascals-triangle-ii/)
   
 #### Medium
 - 5.Longest Palindromic Substring: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/5.%20Longest%20Palindromic%20Substring.js) | [[문제]](https://leetcode.com/problems/longest-palindromic-substring/)

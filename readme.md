@@ -78,6 +78,7 @@
 - 90.Subsets II: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/90.%20Subsets%20II.js) | [[문제]](https://leetcode.com/problems/subsets-ii/)
 - 93.Restore IP Addresses: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/93.%20Restore%20IP%20Addresses.js) | [[문제]](https://leetcode.com/problems/restore-ip-addresses/)
 - 97.Interleaving String: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/97.%20Interleaving%20String.js) | [[문제]](https://leetcode.com/problems/interleaving-string/)
+- 128.Longest Consecutive Sequence: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/128.%20Longest%20Consecutive%20Sequence.js) | [[문제]](https://leetcode.com/problems/longest-consecutive-sequence/)
 #### Hard
 - 10.Regular Expression Matching: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Hard/10.%20Regular%20Expression%20Matching.js) | [[문제]](https://leetcode.com/problems/regular-expression-matching/)
 - 32.Longest Valid Parentheses: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Hard/32.%20Longest%20Valid%20Parentheses.js) | [[문제]](https://leetcode.com/problems/longest-valid-parentheses/)
@@ -86,3 +87,4 @@
 - 51.N-Queens: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Hard/51.%20N-Queens.js) | [[문제]](https://leetcode.com/problems/n-queens/)
 - 52.N-Queens II: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Hard/52.%20N-Queens%20II.js) | [[문제]](https://leetcode.com/problems/n-queens-ii/)
 - 60.Permutation Sequence: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Hard/60.%20Permutation%20Sequence.js) | [[문제]](https://leetcode.com/problems/permutation-sequence/)
+- 127.Word Ladder: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Hard/127.%20Word%20Ladder.js) | [[문제]](https://leetcode.com/problems/word-ladder/)

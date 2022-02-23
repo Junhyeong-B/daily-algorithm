@@ -79,6 +79,8 @@
 - 93.Restore IP Addresses: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/93.%20Restore%20IP%20Addresses.js) | [[문제]](https://leetcode.com/problems/restore-ip-addresses/)
 - 97.Interleaving String: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/97.%20Interleaving%20String.js) | [[문제]](https://leetcode.com/problems/interleaving-string/)
 - 128.Longest Consecutive Sequence: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/128.%20Longest%20Consecutive%20Sequence.js) | [[문제]](https://leetcode.com/problems/longest-consecutive-sequence/)
+- 130.Surrounded Regions: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/130.%20Surrounded%20Regions.js) | [[문제]](https://leetcode.com/problems/surrounded-regions/)
+- 131.Palindrome Partitioning: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/131.%20Palindrome%20Partitioning.js) | [[문제]](https://leetcode.com/problems/palindrome-partitioning/)
 #### Hard
 - 10.Regular Expression Matching: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Hard/10.%20Regular%20Expression%20Matching.js) | [[문제]](https://leetcode.com/problems/regular-expression-matching/)
 - 32.Longest Valid Parentheses: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Hard/32.%20Longest%20Valid%20Parentheses.js) | [[문제]](https://leetcode.com/problems/longest-valid-parentheses/)

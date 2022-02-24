@@ -45,6 +45,7 @@
 - 88.Merge Sorted Array: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Easy/88.%20Merge%20Sorted%20Array.js) | [[문제]](https://leetcode.com/problems/merge-sorted-array/)
 - 118.Pascal's Triangle: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Easy/118.%20Pascal's%20Triangle.js) | [[문제]](https://leetcode.com/problems/pascals-triangle/)
 - 119.Pascal's Triangle II: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Easy/119.%20Pascal's%20Triangle%20II.js) | [[문제]](https://leetcode.com/problems/pascals-triangle-ii/)
+- 136.Single Number: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Easy/136.%20Single%20Number.js) | [[문제]](https://leetcode.com/problems/single-number/)
   
 #### Medium
 - 5.Longest Palindromic Substring: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/5.%20Longest%20Palindromic%20Substring.js) | [[문제]](https://leetcode.com/problems/longest-palindromic-substring/)
@@ -81,6 +82,8 @@
 - 128.Longest Consecutive Sequence: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/128.%20Longest%20Consecutive%20Sequence.js) | [[문제]](https://leetcode.com/problems/longest-consecutive-sequence/)
 - 130.Surrounded Regions: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/130.%20Surrounded%20Regions.js) | [[문제]](https://leetcode.com/problems/surrounded-regions/)
 - 131.Palindrome Partitioning: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/131.%20Palindrome%20Partitioning.js) | [[문제]](https://leetcode.com/problems/palindrome-partitioning/)
+- 137.Single Number II: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/137.%20Single%20Number%20II.js) | [[문제]](https://leetcode.com/problems/single-number-ii/)
+- 139.Word Break: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/139.%20Word%20Break.js) | [[문제]](https://leetcode.com/problems/word-break/)
 #### Hard
 - 10.Regular Expression Matching: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Hard/10.%20Regular%20Expression%20Matching.js) | [[문제]](https://leetcode.com/problems/regular-expression-matching/)
 - 32.Longest Valid Parentheses: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Hard/32.%20Longest%20Valid%20Parentheses.js) | [[문제]](https://leetcode.com/problems/longest-valid-parentheses/)

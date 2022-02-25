@@ -84,6 +84,7 @@
 - 131.Palindrome Partitioning: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/131.%20Palindrome%20Partitioning.js) | [[문제]](https://leetcode.com/problems/palindrome-partitioning/)
 - 137.Single Number II: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/137.%20Single%20Number%20II.js) | [[문제]](https://leetcode.com/problems/single-number-ii/)
 - 139.Word Break: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/139.%20Word%20Break.js) | [[문제]](https://leetcode.com/problems/word-break/)
+- 153.Find Minimum in Rotated Sorted Array: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.js) | [[문제]](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 #### Hard
 - 10.Regular Expression Matching: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Hard/10.%20Regular%20Expression%20Matching.js) | [[문제]](https://leetcode.com/problems/regular-expression-matching/)
 - 32.Longest Valid Parentheses: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Hard/32.%20Longest%20Valid%20Parentheses.js) | [[문제]](https://leetcode.com/problems/longest-valid-parentheses/)
@@ -93,3 +94,4 @@
 - 52.N-Queens II: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Hard/52.%20N-Queens%20II.js) | [[문제]](https://leetcode.com/problems/n-queens-ii/)
 - 60.Permutation Sequence: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Hard/60.%20Permutation%20Sequence.js) | [[문제]](https://leetcode.com/problems/permutation-sequence/)
 - 127.Word Ladder: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Hard/127.%20Word%20Ladder.js) | [[문제]](https://leetcode.com/problems/word-ladder/)
+- 140.Word Break II: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Hard/140.%20Word%20Break%20II.js) | [[문제]](https://leetcode.com/problems/word-break-ii/)

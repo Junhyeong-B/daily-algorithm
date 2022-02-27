@@ -46,6 +46,9 @@
 - 118.Pascal's Triangle: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Easy/118.%20Pascal's%20Triangle.js) | [[문제]](https://leetcode.com/problems/pascals-triangle/)
 - 119.Pascal's Triangle II: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Easy/119.%20Pascal's%20Triangle%20II.js) | [[문제]](https://leetcode.com/problems/pascals-triangle-ii/)
 - 136.Single Number: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Easy/136.%20Single%20Number.js) | [[문제]](https://leetcode.com/problems/single-number/)
+- 168.Excel Sheet Column Title: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Easy/168.%20Excel%20Sheet%20Column%20Title.js) | [[문제]](https://leetcode.com/problems/excel-sheet-column-title/)
+- 169.Majority Element: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Easy/169.%20Majority%20Element.js) | [[문제]](https://leetcode.com/problems/majority-element/)
+- 171.Excel Sheet Column Number: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Easy/171.%20Excel%20Sheet%20Column%20Number.js) | [[문제]](https://leetcode.com/problems/excel-sheet-column-number/)
   
 #### Medium
 - 5.Longest Palindromic Substring: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/5.%20Longest%20Palindromic%20Substring.js) | [[문제]](https://leetcode.com/problems/longest-palindromic-substring/)

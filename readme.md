@@ -45,6 +45,7 @@
 - 88.Merge Sorted Array: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Easy/88.%20Merge%20Sorted%20Array.js) | [[문제]](https://leetcode.com/problems/merge-sorted-array/)
 - 118.Pascal's Triangle: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Easy/118.%20Pascal's%20Triangle.js) | [[문제]](https://leetcode.com/problems/pascals-triangle/)
 - 119.Pascal's Triangle II: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Easy/119.%20Pascal's%20Triangle%20II.js) | [[문제]](https://leetcode.com/problems/pascals-triangle-ii/)
+- 121.Best Time to Buy and Sell Stock: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Easy/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.js) | [[문제]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - 136.Single Number: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Easy/136.%20Single%20Number.js) | [[문제]](https://leetcode.com/problems/single-number/)
 - 168.Excel Sheet Column Title: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Easy/168.%20Excel%20Sheet%20Column%20Title.js) | [[문제]](https://leetcode.com/problems/excel-sheet-column-title/)
 - 169.Majority Element: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Easy/169.%20Majority%20Element.js) | [[문제]](https://leetcode.com/problems/majority-element/)
@@ -90,6 +91,7 @@
 - 153.Find Minimum in Rotated Sorted Array: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.js) | [[문제]](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - 167.Two Sum II - Input Array Is Sorted: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.js) | [[문제]](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 - 179.Largest Number: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/179.%20Largest%20Number.js) | [[문제]](https://leetcode.com/problems/largest-number/)
+- 187.Repeated DNA Sequences: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/187.%20Repeated%20DNA%20Sequences.js) | [[문제]](https://leetcode.com/problems/repeated-dna-sequences/)
 #### Hard
 - 10.Regular Expression Matching: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Hard/10.%20Regular%20Expression%20Matching.js) | [[문제]](https://leetcode.com/problems/regular-expression-matching/)
 - 32.Longest Valid Parentheses: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Hard/32.%20Longest%20Valid%20Parentheses.js) | [[문제]](https://leetcode.com/problems/longest-valid-parentheses/)
@@ -102,3 +104,9 @@
 - 140.Word Break II: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Hard/140.%20Word%20Break%20II.js) | [[문제]](https://leetcode.com/problems/word-break-ii/)
 - 154.Find Minimum in Rotated Sorted Array II: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Hard/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.js) | [[문제]](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
 - 174.Dungeon Game: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Hard/174.%20Dungeon%20Game.js) | [[문제]](https://leetcode.com/problems/dungeon-game/)
+
+<br />
+
+### ✔ Practice
+
+- flatten 함수 구현하기: [[코드]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Practice/flatten.js)

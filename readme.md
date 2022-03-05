@@ -50,6 +50,7 @@
 - 168.Excel Sheet Column Title: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Easy/168.%20Excel%20Sheet%20Column%20Title.js) | [[문제]](https://leetcode.com/problems/excel-sheet-column-title/)
 - 169.Majority Element: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Easy/169.%20Majority%20Element.js) | [[문제]](https://leetcode.com/problems/majority-element/)
 - 171.Excel Sheet Column Number: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Easy/171.%20Excel%20Sheet%20Column%20Number.js) | [[문제]](https://leetcode.com/problems/excel-sheet-column-number/)
+- 202.Happy Number: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Easy/202.%20Happy%20Number.ts) | [[문제]](https://leetcode.com/problems/happy-number/)
   
 #### Medium
 - 5.Longest Palindromic Substring: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/5.%20Longest%20Palindromic%20Substring.js) | [[문제]](https://leetcode.com/problems/longest-palindromic-substring/)
@@ -96,6 +97,7 @@
 - 189.Rotate Array: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/189.%20Rotate%20Array.js) | [[문제]](https://leetcode.com/problems/rotate-array/)
 - 198.House Robber: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/198.%20House%20Robber.ts) | [[문제]](https://leetcode.com/problems/house-robber/)
 - 200.Number of Islands: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/200.%20Number%20of%20Islands.ts) | [[문제]](https://leetcode.com/problems/number-of-islands/)
+- 204.Count Primes: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/204.%20Count%20Primes.ts) | [[문제]](https://leetcode.com/problems/count-primes/)
 #### Hard
 - 10.Regular Expression Matching: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Hard/10.%20Regular%20Expression%20Matching.js) | [[문제]](https://leetcode.com/problems/regular-expression-matching/)
 - 32.Longest Valid Parentheses: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Hard/32.%20Longest%20Valid%20Parentheses.js) | [[문제]](https://leetcode.com/problems/longest-valid-parentheses/)
@@ -117,3 +119,4 @@
 
 - flatten 함수 구현하기: [[코드]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Practice/flatten.js)
 - shuffle 함수(Fisher-Yates Shuffle) 구현하기: [[코드]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Practice/shuffle.ts)
+- 하노이의 탑 재귀 함수 구현하기: [[코드]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Practice/hanoi.ts)

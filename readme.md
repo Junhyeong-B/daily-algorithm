@@ -53,6 +53,8 @@
 - 202.Happy Number: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Easy/202.%20Happy%20Number.ts) | [[문제]](https://leetcode.com/problems/happy-number/)
   
 #### Medium
+- 2.Add Two Numbers: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/2.%20Add%20Two%20Numbers.ts) | [[문제]](https://leetcode.com/problems/add-two-numbers/)
+- 3.Longest Substring Without Repeating Characters: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/3.%20Longest%20Substring%20Without%20Repeating%20Characters.ts) | [[문제]](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - 5.Longest Palindromic Substring: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/5.%20Longest%20Palindromic%20Substring.js) | [[문제]](https://leetcode.com/problems/longest-palindromic-substring/)
 - 12.Integer to Roman: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/12.%20Integer%20to%20Roman.js) | [[문제]](https://leetcode.com/problems/integer-to-roman/)
 - 15.3Sum: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/15.%203Sum.js) | [[문제]](https://leetcode.com/problems/3sum/)

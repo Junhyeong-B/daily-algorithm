@@ -40,6 +40,7 @@
 ### ✔ LeetCode
 
 #### Easy
+- 21.Merge Two Sorted Lists: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Easy/21.%20Merge%20Two%20Sorted%20Lists.ts) | [[문제]](https://leetcode.com/problems/merge-two-sorted-lists/)
 - 53.Maximum Subarray: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Easy/53.%20Maximum%20Subarray.js) | [[문제]](https://leetcode.com/problems/maximum-subarray/)
 - 58.Length of Last Word: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Easy/58.%20Length%20of%20Last%20Word.js) | [[문제]](https://leetcode.com/problems/length-of-last-word/)
 - 88.Merge Sorted Array: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Easy/88.%20Merge%20Sorted%20Array.js) | [[문제]](https://leetcode.com/problems/merge-sorted-array/)
@@ -118,6 +119,7 @@
 - 154.Find Minimum in Rotated Sorted Array II: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Hard/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.js) | [[문제]](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
 - 174.Dungeon Game: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Hard/174.%20Dungeon%20Game.js) | [[문제]](https://leetcode.com/problems/dungeon-game/)
 - 188.Best Time to Buy and Sell Stock IV: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Hard/188.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV.js) | [[문제]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)
+- 212.Word Search II: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Hard/212.%20Word%20Search%20II.ts) | [[문제]](https://leetcode.com/problems/word-search-ii/)
 
 <br />
 
@@ -127,3 +129,4 @@
 - shuffle 함수(Fisher-Yates Shuffle) 구현하기: [[코드]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Practice/shuffle.ts)
 - 하노이의 탑 재귀 함수 구현하기: [[코드]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Practice/hanoi.ts)
 - Singly Linked List 구현하기: [[코드]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Practice/linked-list.ts)
+- Trie 구현하기: [[코드]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Practice/trie.ts)

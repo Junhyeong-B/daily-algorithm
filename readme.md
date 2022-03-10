@@ -105,6 +105,7 @@
 - 204.Count Primes: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/204.%20Count%20Primes.ts) | [[문제]](https://leetcode.com/problems/count-primes/)
 - 207.Course Schedule: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/207.%20Course%20Schedule.ts) | [[문제]](https://leetcode.com/problems/course-schedule/)
 - 209.Minimum Size Subarray Sum: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/209.%20Minimum%20Size%20Subarray%20Sum.ts) | [[문제]](https://leetcode.com/problems/minimum-size-subarray-sum/)
+- 213.House Robber II: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/213.%20House%20Robber%20II.ts) | [[문제]](https://leetcode.com/problems/house-robber-ii/)
 #### Hard
 - 10.Regular Expression Matching: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Hard/10.%20Regular%20Expression%20Matching.js) | [[문제]](https://leetcode.com/problems/regular-expression-matching/)
 - 32.Longest Valid Parentheses: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Hard/32.%20Longest%20Valid%20Parentheses.js) | [[문제]](https://leetcode.com/problems/longest-valid-parentheses/)
@@ -120,6 +121,7 @@
 - 174.Dungeon Game: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Hard/174.%20Dungeon%20Game.js) | [[문제]](https://leetcode.com/problems/dungeon-game/)
 - 188.Best Time to Buy and Sell Stock IV: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Hard/188.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV.js) | [[문제]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)
 - 212.Word Search II: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Hard/212.%20Word%20Search%20II.ts) | [[문제]](https://leetcode.com/problems/word-search-ii/)
+- 214.Shortest Palindrome: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Hard/214.%20Shortest%20Palindrome.ts) | [[문제]](https://leetcode.com/problems/shortest-palindrome/)
 
 <br />
 

@@ -28,6 +28,7 @@
 - 메뉴 리뉴얼: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv2/%EB%A9%94%EB%89%B4%20%EB%A6%AC%EB%89%B4%EC%96%BC.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/72411)
 - 배달: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv2/%EB%B0%B0%EB%8B%AC.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/12978)
 - 모음 사전: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv2/%EB%AA%A8%EC%9D%8C%20%EC%82%AC%EC%A0%84.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/84512)
+- 행렬 테두리 회전하기: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv2/%ED%96%89%EB%A0%AC%20%ED%85%8C%EB%91%90%EB%A6%AC%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/77485#)
 #### Lv3
 - 단어 변환: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv3/%EB%8B%A8%EC%96%B4%20%EB%B3%80%ED%99%98.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/43163)
 - [1차] 셔틀버스: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv3/%5B1%EC%B0%A8%5D%20%EC%85%94%ED%8B%80%EB%B2%84%EC%8A%A4.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/17678)
@@ -53,6 +54,7 @@
 - 171.Excel Sheet Column Number: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Easy/171.%20Excel%20Sheet%20Column%20Number.js) | [[문제]](https://leetcode.com/problems/excel-sheet-column-number/)
 - 202.Happy Number: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Easy/202.%20Happy%20Number.ts) | [[문제]](https://leetcode.com/problems/happy-number/)
 - 231.Power of Two: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Easy/231.%20Power%20of%20Two.ts) | [[문제]](https://leetcode.com/problems/power-of-two/)
+- 232.Implement Queue using Stacks: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Easy/232.%20Implement%20Queue%20using%20Stacks.ts) | [[문제]](https://leetcode.com/problems/implement-queue-using-stacks/)
   
 #### Medium
 - 2.Add Two Numbers: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/LeetCode/Medium/2.%20Add%20Two%20Numbers.ts) | [[문제]](https://leetcode.com/problems/add-two-numbers/)

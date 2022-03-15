@@ -30,10 +30,12 @@
 - 모음 사전: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv2/%EB%AA%A8%EC%9D%8C%20%EC%82%AC%EC%A0%84.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/84512)
 - 행렬 테두리 회전하기: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv2/%ED%96%89%EB%A0%AC%20%ED%85%8C%EB%91%90%EB%A6%AC%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/77485#)
 - 타겟 넘버: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv2/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/43165)
+- 프린터: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv2/%ED%94%84%EB%A6%B0%ED%84%B0.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/42587)
 #### Lv3
 - 단어 변환: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv3/%EB%8B%A8%EC%96%B4%20%EB%B3%80%ED%99%98.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/43163)
 - [1차] 셔틀버스: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv3/%5B1%EC%B0%A8%5D%20%EC%85%94%ED%8B%80%EB%B2%84%EC%8A%A4.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/17678)
 - 야근 지수: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv3/%EC%95%BC%EA%B7%BC%20%EC%A7%80%EC%88%98.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/12927)
+- 가장 긴 팰린드롬: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv3/%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/12904)
 
 
 
@@ -140,3 +142,5 @@
 - 하노이의 탑 재귀 함수 구현하기: [[코드]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Practice/hanoi.ts)
 - Singly Linked List 구현하기: [[코드]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Practice/linked-list.ts)
 - Trie 구현하기: [[코드]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Practice/trie.ts)
+- Queue 구현하기: [[코드]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Practice/queue.ts)
+- Heap 구현하기: [[코드]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Practice/heap.ts)

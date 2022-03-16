@@ -36,6 +36,8 @@
 - [1차] 셔틀버스: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv3/%5B1%EC%B0%A8%5D%20%EC%85%94%ED%8B%80%EB%B2%84%EC%8A%A4.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/17678)
 - 야근 지수: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv3/%EC%95%BC%EA%B7%BC%20%EC%A7%80%EC%88%98.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/12927)
 - 가장 긴 팰린드롬: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv3/%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/12904)
+- 가장 먼 노드: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv3/%EA%B0%80%EC%9E%A5%20%EB%A8%BC%20%EB%85%B8%EB%93%9C.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/49189)
+- 입국심사: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv3/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/43238)
 
 
 

@@ -38,8 +38,8 @@
 - 가장 긴 팰린드롬: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv3/%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/12904)
 - 가장 먼 노드: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv3/%EA%B0%80%EC%9E%A5%20%EB%A8%BC%20%EB%85%B8%EB%93%9C.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/49189)
 - 입국심사: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv3/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/43238)
-
-
+- N으로 표현: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv3/N%EC%9C%BC%EB%A1%9C%20%ED%91%9C%ED%98%84.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/42895)
+- 다단계 칫솔 판매: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv3/%EB%8B%A4%EB%8B%A8%EA%B3%84%20%EC%B9%AB%EC%86%94%20%ED%8C%90%EB%A7%A4.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/77486)
 
 <br />
 

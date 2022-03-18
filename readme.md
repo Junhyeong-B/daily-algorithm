@@ -40,6 +40,8 @@
 - 입국심사: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv3/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/43238)
 - N으로 표현: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv3/N%EC%9C%BC%EB%A1%9C%20%ED%91%9C%ED%98%84.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/42895)
 - 다단계 칫솔 판매: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv3/%EB%8B%A4%EB%8B%A8%EA%B3%84%20%EC%B9%AB%EC%86%94%20%ED%8C%90%EB%A7%A4.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/77486)
+- [카카오 인턴] 보석 쇼핑: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv3/%5B%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EC%9D%B8%ED%84%B4%5D%20%EB%B3%B4%EC%84%9D%20%EC%87%BC%ED%95%91.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/67258)
+- 단속카메라: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv3/%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/42884)
 
 <br />
 

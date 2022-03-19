@@ -42,6 +42,8 @@
 - 다단계 칫솔 판매: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv3/%EB%8B%A4%EB%8B%A8%EA%B3%84%20%EC%B9%AB%EC%86%94%20%ED%8C%90%EB%A7%A4.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/77486)
 - [카카오 인턴] 보석 쇼핑: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv3/%5B%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EC%9D%B8%ED%84%B4%5D%20%EB%B3%B4%EC%84%9D%20%EC%87%BC%ED%95%91.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/67258)
 - 단속카메라: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv3/%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/42884)
+- 불량 사용자: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv3/%EB%B6%88%EB%9F%89%20%EC%82%AC%EC%9A%A9%EC%9E%90.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/64064)
+- 여행경로: [[풀이]](https://github.com/Junhyeong-B/coding_test_practice/blob/main/Programmers/Lv3/%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9C.js) | [[문제]](https://programmers.co.kr/learn/courses/30/lessons/43164)
 
 <br />
 

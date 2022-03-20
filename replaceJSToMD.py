@@ -33,7 +33,7 @@ def main():
                     for line in lines:
                         content += line
 
-                content += "```"
+                content += "\n```"
                 with open(newFilenameDirectory + "/README.md", "w", encoding="UTF-8") as fd:
                     fd.write(content)
 

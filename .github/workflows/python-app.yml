@@ -5,27 +5,30 @@ name: README.me auto update
 
 on:
   push:
-    branches: [ main ]
+    branches: [main]
   pull_request:
-    branches: [ main ]
+    branches: [main]
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
-    - name: Set up Python 3.10
-      uses: actions/setup-python@v2
-      with:
-        python-version: "3.10"
-    - name: Update .md File
-      run: |
-        python update.py
-    - name: Push the change
-      run: |
+      - uses: actions/checkout@v2
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v2
+        with:
+          python-version: "3.10"
+      - name: Replace .js or .ts to .md File
+        run: |
+          python replaceJSToMD.py
+      - name: Update .md File
+        run: |
+          python update.py
+      - name: Push the change
+        run: |
           git config --global user.name 'Junhyeong-B'
           git config --global user.email 'aowlr0513@gmail.com'
-          git commit -am "Automated update of README.md" || true
+          git add .
+          git commit -m "Automated update of README.md" || true
           git push

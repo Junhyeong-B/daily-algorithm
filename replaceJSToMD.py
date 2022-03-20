@@ -36,7 +36,6 @@ def main():
                 content += "```"
                 with open(newFilenameDirectory + "/README.md", "w", encoding="UTF-8") as fd:
                     fd.write(content)
-                os.remove(fileSource)
 
 
 if __name__ == "__main__":

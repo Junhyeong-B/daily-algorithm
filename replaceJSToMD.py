@@ -15,8 +15,8 @@ def main():
         for file in files:
             filename, extention = file.split(".")
             if extention == "js" or extention == "ts":
-                fileSource = root + "\\" + file
-                newFilenameDirectory = root + "\\" + filename
+                fileSource = root + "/" + file
+                newFilenameDirectory = root + "/" + filename
                 if os.path.isdir(newFilenameDirectory):
                     continue
 
@@ -34,7 +34,7 @@ def main():
                         content += line
 
                 content += "```"
-                with open(newFilenameDirectory + "\\README.md", "w", encoding="UTF-8") as fd:
+                with open(newFilenameDirectory + "/README.md", "w", encoding="UTF-8") as fd:
                     fd.write(content)
                 os.remove(fileSource)
 

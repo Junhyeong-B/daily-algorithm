@@ -13,8 +13,8 @@ def main():
             continue
 
         for file in files:
-            filename, extention = file.split(".")
-            if extention == "js" or extention == "ts":
+            filename, extention = os.path.splitext(file)
+            if extention == ".js" or extention == ".ts":
                 fileSource = root + "/" + file
                 newFilenameDirectory = root + "/" + filename
                 if os.path.isdir(newFilenameDirectory):
@@ -22,10 +22,10 @@ def main():
 
                 os.mkdir(newFilenameDirectory)
                 content = ""
-                if extention == "js":
+                if extention == ".js":
                     content += "```jsx\n"
 
-                if extention == "ts":
+                if extention == ".ts":
                     content += "```tsx\n"
 
                 with open(fileSource, "r", encoding='UTF-8') as f:

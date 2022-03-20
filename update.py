@@ -13,7 +13,6 @@ def count_problem():
                 except ValueError:
                     pass
             continue
-        print(len(dirs))
         if len(dirs) == 0:
             count += len(files)
     return count
@@ -66,8 +65,10 @@ def main():
             directories.append(directory)
 
         for file in files:
-            content += "- [{}]({})\n".format(category,
-                                             parse.quote(os.path.join(root, file)))
+            _, extention = os.path.splitext(file)
+            if extention == ".md":
+                content += "- [{}]({})\n".format(category,
+                                                 parse.quote(os.path.join(root, file)))
         content += "\n"
 
     with open("README.md", "w", encoding="UTF-8") as fd:

@@ -67,8 +67,8 @@ def main():
         for file in files:
             _, extention = os.path.splitext(file)
             if extention == ".md":
-                content += "- [{}]({})\n".format(category,
-                                                 parse.quote(os.path.join(root, file)))
+                content += "- [{}]({})".format(category,
+                                               parse.quote(os.path.join(root, file)))
         content += "\n"
 
     with open("README.md", "w", encoding="UTF-8") as fd:

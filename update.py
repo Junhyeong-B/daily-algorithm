@@ -34,7 +34,7 @@ def main():
     content = ""
     content += HEADER
 
-    directories = []
+    directories = ["."]
 
     for root, dirs, files in os.walk("."):
         dirs.sort()
@@ -53,23 +53,22 @@ def main():
 
         directory = os.path.basename(os.path.dirname(root))
 
-        if directory == '.':
-            if len(files) == 1:
-                content += "### [{}]({})\n".format(category,
-                                                   parse.quote(os.path.join(root, files[0])))
-                directories.append(category)
-            continue
+        if directory == ".":
+            content += "## {}\n".format(category)
+        else:
+            content += "### {}\n".format(category)
+        directories.append(category)
 
         if directory not in directories:
             content += "### {}\n".format(directory)
             directories.append(directory)
 
         for file in files:
-            _, extention = os.path.splitext(file)
-            if extention == ".md":
-                content += "- [{}]({})".format(category,
-                                               parse.quote(os.path.join(root, file)))
-        content += "\n"
+            filename, extention = os.path.splitext(file)
+            if extention == ".js" or extention == ".ts":
+
+                content += "- [{}]({})\n".format(filename,
+                                                 parse.quote(os.path.join(root, file)))
 
     with open("README.md", "w", encoding="UTF-8") as fd:
         fd.write(content)

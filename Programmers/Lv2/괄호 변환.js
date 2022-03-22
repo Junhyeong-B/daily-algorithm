@@ -1,102 +1,80 @@
-const isProperBracket = (brackets) => {
+const isProperBracket = (p) => {
   const stack = [];
-  for (const bracket of brackets) {
-    switch (bracket) {
-      case "(":
-        stack.push(bracket);
-        break;
-      case ")":
-        if (!stack.length) {
-          return false;
-        }
-        stack.pop();
-        break;
-    }
-  }
-
-  return !stack.length;
-};
-
-const makeUV = (brackets) => {
-  let count = 0;
-  const U = [];
-  for (const i in brackets) {
-    switch (brackets[i]) {
-      case "(":
-        count++;
-        break;
-      case ")":
-        count--;
-        break;
-    }
-    U.push(brackets[i]);
-
-    if (!!U.length && count === 0) {
-      const V = brackets.slice(+i + 1);
-      return [U.join(""), V];
-    }
-  }
-};
-
-const recursive = (brackets) => {
-  const [u, v] = makeUV(brackets);
-  if (!isProperBracket(u)) {
-  }
-};
-
-const reverseBrackets = (brackets) => {
-  return brackets
-    .split("")
-    .map((b, i) => {
-      if (i === 0) {
-        return "";
-      } else if (i === brackets.length - 1) {
-        return "";
-      } else {
-        if (b === "(") {
-          return ")";
-        } else {
-          return "(";
-        }
-      }
-    })
-    .join("");
-};
-
-function solution(p) {
-  if (isProperBracket(p)) {
-    return p;
-  }
-  const stack = [];
-
-  const recursive = (brackets) => {
-    if (brackets === "") {
-      return;
-    }
-
-    const [u, v] = makeUV(brackets);
-    console.log(u, v);
-    if (isProperBracket(u)) {
-      stack.push(u);
-      recursive(v);
+  for (const bracket of p) {
+    if (bracket === "(") {
+      stack.push(bracket);
     } else {
-      recursive(v);
-      const createdBracket = stack[stack.length - 1];
-      let bracket = "";
-      console.log(!createdBracket);
-      if (!createdBracket) {
-        bracket = "(" + ")" + reverseBrackets(u);
-        stack.push(bracket);
-      } else {
-        bracket = "(" + stack[stack.length - 1] + ")" + reverseBrackets(u);
-        stack[stack.length - 1] = bracket;
+      if (!stack.length) {
+        return false;
       }
+
+      stack.pop();
+    }
+  }
+
+  return stack.length === 0;
+};
+
+const isBalancedBracket = (p) => {
+  let count = 0;
+  for (const bracket of p) {
+    if (bracket === "(") {
+      count += 1;
+    } else {
+      count -= 1;
+    }
+  }
+
+  return count === 0;
+};
+
+const separateUV = (p) => {
+  for (let i = 2; i < p.length; i += 2) {
+    const u = p.slice(0, i);
+    if (isBalancedBracket(u)) {
+      return [u, p.slice(i)];
+    }
+  }
+
+  return [p, ""];
+};
+
+const reverseBracket = (p) => {
+  const brackets = [];
+  for (const bracket of p) {
+    if (bracket === ")") {
+      brackets.push("(");
+    } else {
+      brackets.push(")");
+    }
+  }
+
+  return brackets.join("");
+};
+
+const solution = (p) => {
+  const recursive = (p, tmp) => {
+    if (p === "") {
+      const bracket = tmp.join("");
+      return bracket;
+    }
+
+    const [u, v] = separateUV(p);
+
+    if (isProperBracket(u)) {
+      return recursive(v, tmp.concat(u));
+    } else {
+      const brackets = ["("];
+      const middleBrackets = recursive(v, []);
+      brackets.push(middleBrackets);
+      brackets.push(")");
+
+      const updateU = reverseBracket(u.slice(1, u.length - 1));
+      brackets.push(updateU);
+
+      return tmp.concat(brackets).join("");
     }
   };
 
-  recursive(p);
-
-  return stack.join("");
-}
-
-console.log(solution(")("));
+  return recursive(p, []);
+};

@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 125개
+# 현재까지 푼 문제 수: 🐥 127개
 ## LeetCode
 ### Easy
 - [21. Merge Two Sorted Lists](./LeetCode/Easy/21.%20Merge%20Two%20Sorted%20Lists.ts)
@@ -16,6 +16,7 @@
 - [58. Length of Last Word](./LeetCode/Easy/58.%20Length%20of%20Last%20Word.js)
 - [171. Excel Sheet Column Number](./LeetCode/Easy/171.%20Excel%20Sheet%20Column%20Number.js)
 - [231. Power of Two](./LeetCode/Easy/231.%20Power%20of%20Two.ts)
+- [242. Valid Anagram](./LeetCode/Easy/242.%20Valid%20Anagram.ts)
 - [88. Merge Sorted Array](./LeetCode/Easy/88.%20Merge%20Sorted%20Array.js)
 - [53. Maximum Subarray](./LeetCode/Easy/53.%20Maximum%20Subarray.js)
 - [136. Single Number](./LeetCode/Easy/136.%20Single%20Number.js)
@@ -69,6 +70,7 @@
 - [189. Rotate Array](./LeetCode/Medium/189.%20Rotate%20Array.js)
 - [77. Combinations](./LeetCode/Medium/77.%20Combinations.js)
 - [139. Word Break](./LeetCode/Medium/139.%20Word%20Break.js)
+- [238. Product of Array Except Self](./LeetCode/Medium/238.%20Product%20of%20Array%20Except%20Self.ts)
 - [19. Remove Nth Node From End of List](./LeetCode/Medium/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.ts)
 - [93. Restore IP Addresses](./LeetCode/Medium/93.%20Restore%20IP%20Addresses.js)
 - [229. Majority Element II](./LeetCode/Medium/229.%20Majority%20Element%20II.ts)

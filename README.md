@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 106개
+# 현재까지 푼 문제 수: 🐥 125개
 ## LeetCode
 ### Easy
 - [21. Merge Two Sorted Lists](./LeetCode/Easy/21.%20Merge%20Two%20Sorted%20Lists.ts)
@@ -129,8 +129,6 @@
 - [모음 사전](./Programmers/Lv2/%EB%AA%A8%EC%9D%8C%20%EC%82%AC%EC%A0%84.js)
 - [보석 쇼핑](./Programmers/Lv2/%EB%B3%B4%EC%84%9D%20%EC%87%BC%ED%95%91.js)
 - [피로도](./Programmers/Lv2/%ED%94%BC%EB%A1%9C%EB%8F%84.js)
-### [1차] 뉴스 클러스터링
-### 문자열 압축
 ### Lv3
 - [[1차] 셔틀버스](./Programmers/Lv3/%5B1%EC%B0%A8%5D%20%EC%85%94%ED%8B%80%EB%B2%84%EC%8A%A4.js)
 - [[카카오 인턴] 보석 쇼핑](./Programmers/Lv3/%5B%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EC%9D%B8%ED%84%B4%5D%20%EB%B3%B4%EC%84%9D%20%EC%87%BC%ED%95%91.js)

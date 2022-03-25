@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 129개
+# 현재까지 푼 문제 수: 🐥 131개
 ## LeetCode
 ### Easy
 - [21. Merge Two Sorted Lists](./LeetCode/Easy/21.%20Merge%20Two%20Sorted%20Lists.ts)
@@ -54,12 +54,14 @@
 - [153. Find Minimum in Rotated Sorted Array](./LeetCode/Medium/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.js)
 - [36. Valid Sudoku](./LeetCode/Medium/36.%20Valid%20Sudoku.js)
 - [73. Set Matrix Zeroes](./LeetCode/Medium/73.%20Set%20Matrix%20Zeroes.js)
+- [1029. Two City Scheduling](./LeetCode/Medium/1029.%20Two%20City%20Scheduling.ts)
 - [55. Jump Game](./LeetCode/Medium/55.%20Jump%20Game.js)
 - [2. Add Two Numbers](./LeetCode/Medium/2.%20Add%20Two%20Numbers.ts)
 - [187. Repeated DNA Sequences](./LeetCode/Medium/187.%20Repeated%20DNA%20Sequences.js)
 - [97. Interleaving String](./LeetCode/Medium/97.%20Interleaving%20String.js)
 - [204. Count Primes](./LeetCode/Medium/204.%20Count%20Primes.ts)
 - [56. Merge Intervals](./LeetCode/Medium/56.%20Merge%20Intervals.js)
+- [260. Single Number III](./LeetCode/Medium/260.%20Single%20Number%20III.ts)
 - [137. Single Number II](./LeetCode/Medium/137.%20Single%20Number%20II.js)
 - [48. Rotate Image](./LeetCode/Medium/48.%20Rotate%20Image.js)
 - [198. House Robber](./LeetCode/Medium/198.%20House%20Robber.ts)

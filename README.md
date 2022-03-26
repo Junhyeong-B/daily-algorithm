@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 131개
+# 현재까지 푼 문제 수: 🐥 133개
 ## LeetCode
 ### Easy
 - [21. Merge Two Sorted Lists](./LeetCode/Easy/21.%20Merge%20Two%20Sorted%20Lists.ts)
@@ -17,9 +17,11 @@
 - [171. Excel Sheet Column Number](./LeetCode/Easy/171.%20Excel%20Sheet%20Column%20Number.js)
 - [231. Power of Two](./LeetCode/Easy/231.%20Power%20of%20Two.ts)
 - [242. Valid Anagram](./LeetCode/Easy/242.%20Valid%20Anagram.ts)
+- [258. Add Digits](./LeetCode/Easy/258.%20Add%20Digits.ts)
 - [88. Merge Sorted Array](./LeetCode/Easy/88.%20Merge%20Sorted%20Array.js)
 - [53. Maximum Subarray](./LeetCode/Easy/53.%20Maximum%20Subarray.js)
 - [136. Single Number](./LeetCode/Easy/136.%20Single%20Number.js)
+- [704. Binary Search](./LeetCode/Easy/704.%20Binary%20Search.ts)
 - [168. Excel Sheet Column Title](./LeetCode/Easy/168.%20Excel%20Sheet%20Column%20Title.js)
 ### Hard
 - [212. Word Search II](./LeetCode/Hard/212.%20Word%20Search%20II.ts)

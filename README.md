@@ -2,9 +2,10 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 133개
+# 현재까지 푼 문제 수: 🐥 135개
 ## LeetCode
 ### Easy
+- [1337. The K Weakest Rows in a Matrix](./LeetCode/Easy/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.ts)
 - [21. Merge Two Sorted Lists](./LeetCode/Easy/21.%20Merge%20Two%20Sorted%20Lists.ts)
 - [202. Happy Number](./LeetCode/Easy/202.%20Happy%20Number.ts)
 - [118. Pascal's Triangle](./LeetCode/Easy/118.%20Pascal%27s%20Triangle.js)
@@ -72,6 +73,7 @@
 - [11. Container With Most Water](./LeetCode/Medium/11.%20Container%20With%20Most%20Water.ts)
 - [12. Integer to Roman](./LeetCode/Medium/12.%20Integer%20to%20Roman.js)
 - [46. Permutations](./LeetCode/Medium/46.%20Permutations.js)
+- [264. Ugly Number II](./LeetCode/Medium/264.%20Ugly%20Number%20II.ts)
 - [189. Rotate Array](./LeetCode/Medium/189.%20Rotate%20Array.js)
 - [77. Combinations](./LeetCode/Medium/77.%20Combinations.js)
 - [139. Word Break](./LeetCode/Medium/139.%20Word%20Break.js)

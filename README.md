@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 135개
+# 현재까지 푼 문제 수: 🐥 137개
 ## LeetCode
 ### Easy
 - [1337. The K Weakest Rows in a Matrix](./LeetCode/Easy/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.ts)
@@ -14,6 +14,7 @@
 - [119. Pascal's Triangle II](./LeetCode/Easy/119.%20Pascal%27s%20Triangle%20II.js)
 - [232. Implement Queue using Stacks](./LeetCode/Easy/232.%20Implement%20Queue%20using%20Stacks.ts)
 - [234. Palindrome Linked List](./LeetCode/Easy/234.%20Palindrome%20Linked%20List.ts)
+- [283. Move Zeroes](./LeetCode/Easy/283.%20Move%20Zeroes.ts)
 - [58. Length of Last Word](./LeetCode/Easy/58.%20Length%20of%20Last%20Word.js)
 - [171. Excel Sheet Column Number](./LeetCode/Easy/171.%20Excel%20Sheet%20Column%20Number.js)
 - [231. Power of Two](./LeetCode/Easy/231.%20Power%20of%20Two.ts)
@@ -49,6 +50,7 @@
 - [90. Subsets II](./LeetCode/Medium/90.%20Subsets%20II.js)
 - [15. 3Sum](./LeetCode/Medium/15.%203Sum.js)
 - [80. Remove Duplicates from Sorted Array II](./LeetCode/Medium/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.js)
+- [287. Find the Duplicate Number](./LeetCode/Medium/287.%20Find%20the%20Duplicate%20Number.ts)
 - [179. Largest Number](./LeetCode/Medium/179.%20Largest%20Number.js)
 - [207. Course Schedule](./LeetCode/Medium/207.%20Course%20Schedule.ts)
 - [59. Spiral Matrix II](./LeetCode/Medium/59.%20Spiral%20Matrix%20II.js)

@@ -2,10 +2,11 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 151개
+# 현재까지 푼 문제 수: 🐥 153개
 ## LeetCode
 ### Easy
 - [1337. The K Weakest Rows in a Matrix](./LeetCode/Easy/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.ts)
+- [290. Word Pattern](./LeetCode/Easy/290.%20Word%20Pattern.ts)
 - [21. Merge Two Sorted Lists](./LeetCode/Easy/21.%20Merge%20Two%20Sorted%20Lists.ts)
 - [202. Happy Number](./LeetCode/Easy/202.%20Happy%20Number.ts)
 - [118. Pascal's Triangle](./LeetCode/Easy/118.%20Pascal%27s%20Triangle.js)
@@ -37,6 +38,7 @@
 - [174. Dungeon Game](./LeetCode/Hard/174.%20Dungeon%20Game.js)
 - [188. Best Time to Buy and Sell Stock IV](./LeetCode/Hard/188.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV.js)
 - [60. Permutation Sequence](./LeetCode/Hard/60.%20Permutation%20Sequence.js)
+- [410. Split Array Largest Sum](./LeetCode/Hard/410.%20Split%20Array%20Largest%20Sum.ts)
 - [123. Best Time to Buy and Sell Stock III](./LeetCode/Hard/123.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III.js)
 - [10. Regular Expression Matching](./LeetCode/Hard/10.%20Regular%20Expression%20Matching.js)
 - [52. N-Queens II](./LeetCode/Hard/52.%20N-Queens%20II.js)

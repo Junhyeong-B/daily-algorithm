@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 153개
+# 현재까지 푼 문제 수: 🐥 155개
 ## LeetCode
 ### Easy
 - [1337. The K Weakest Rows in a Matrix](./LeetCode/Easy/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.ts)
@@ -15,6 +15,7 @@
 - [119. Pascal's Triangle II](./LeetCode/Easy/119.%20Pascal%27s%20Triangle%20II.js)
 - [232. Implement Queue using Stacks](./LeetCode/Easy/232.%20Implement%20Queue%20using%20Stacks.ts)
 - [234. Palindrome Linked List](./LeetCode/Easy/234.%20Palindrome%20Linked%20List.ts)
+- [344. Reverse String](./LeetCode/Easy/344.%20Reverse%20String.ts)
 - [283. Move Zeroes](./LeetCode/Easy/283.%20Move%20Zeroes.ts)
 - [58. Length of Last Word](./LeetCode/Easy/58.%20Length%20of%20Last%20Word.js)
 - [171. Excel Sheet Column Number](./LeetCode/Easy/171.%20Excel%20Sheet%20Column%20Number.js)
@@ -85,6 +86,7 @@
 - [19. Remove Nth Node From End of List](./LeetCode/Medium/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.ts)
 - [93. Restore IP Addresses](./LeetCode/Medium/93.%20Restore%20IP%20Addresses.js)
 - [229. Majority Element II](./LeetCode/Medium/229.%20Majority%20Element%20II.ts)
+- [300. Longest Increasing Subsequence](./LeetCode/Medium/300.%20Longest%20Increasing%20Subsequence.ts)
 - [17. Letter Combinations of a Phone Number](./LeetCode/Medium/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.js)
 - [49. Group Anagrams](./LeetCode/Medium/49.%20Group%20Anagrams.js)
 - [57. Insert Interval](./LeetCode/Medium/57.%20Insert%20Interval.js)

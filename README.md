@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 155개
+# 현재까지 푼 문제 수: 🐥 157개
 ## LeetCode
 ### Easy
 - [1337. The K Weakest Rows in a Matrix](./LeetCode/Easy/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.ts)
@@ -27,6 +27,7 @@
 - [136. Single Number](./LeetCode/Easy/136.%20Single%20Number.js)
 - [704. Binary Search](./LeetCode/Easy/704.%20Binary%20Search.ts)
 - [168. Excel Sheet Column Title](./LeetCode/Easy/168.%20Excel%20Sheet%20Column%20Title.js)
+- [680. Valid Palindrome II](./LeetCode/Easy/680.%20Valid%20Palindrome%20II.ts)
 ### Hard
 - [212. Word Search II](./LeetCode/Hard/212.%20Word%20Search%20II.ts)
 - [127. Word Ladder](./LeetCode/Hard/127.%20Word%20Ladder.js)
@@ -81,6 +82,7 @@
 - [264. Ugly Number II](./LeetCode/Medium/264.%20Ugly%20Number%20II.ts)
 - [189. Rotate Array](./LeetCode/Medium/189.%20Rotate%20Array.js)
 - [77. Combinations](./LeetCode/Medium/77.%20Combinations.js)
+- [304. Range Sum Query 2D - Immutable](./LeetCode/Medium/304.%20Range%20Sum%20Query%202D%20-%20Immutable.ts)
 - [139. Word Break](./LeetCode/Medium/139.%20Word%20Break.js)
 - [238. Product of Array Except Self](./LeetCode/Medium/238.%20Product%20of%20Array%20Except%20Self.ts)
 - [19. Remove Nth Node From End of List](./LeetCode/Medium/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.ts)

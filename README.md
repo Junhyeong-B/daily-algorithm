@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 157개
+# 현재까지 푼 문제 수: 🐥 159개
 ## LeetCode
 ### Easy
 - [1337. The K Weakest Rows in a Matrix](./LeetCode/Easy/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.ts)
@@ -94,6 +94,7 @@
 - [57. Insert Interval](./LeetCode/Medium/57.%20Insert%20Interval.js)
 - [47. Permutations II](./LeetCode/Medium/47.%20Permutations%20II.js)
 - [79. Word Search](./LeetCode/Medium/79.%20Word%20Search.js)
+- [307. Range Sum Query - Mutable](./LeetCode/Medium/307.%20Range%20Sum%20Query%20-%20Mutable.ts)
 - [18. 4Sum](./LeetCode/Medium/18.%204Sum.js)
 - [209. Minimum Size Subarray Sum](./LeetCode/Medium/209.%20Minimum%20Size%20Subarray%20Sum.ts)
 - [131. Palindrome Partitioning](./LeetCode/Medium/131.%20Palindrome%20Partitioning.js)
@@ -106,6 +107,7 @@
 - [128. Longest Consecutive Sequence](./LeetCode/Medium/128.%20Longest%20Consecutive%20Sequence.js)
 - [16. 3Sum Closest](./LeetCode/Medium/16.%203Sum%20Closest.js)
 - [130. Surrounded Regions](./LeetCode/Medium/130.%20Surrounded%20Regions.js)
+- [31. Next Permutation](./LeetCode/Medium/31.%20Next%20Permutation.ts)
 - [74. Search a 2D Matrix](./LeetCode/Medium/74.%20Search%20a%202D%20Matrix.js)
 - [63. Unique Paths II](./LeetCode/Medium/63.%20Unique%20Paths%20II.js)
 - [881. Boats to Save People](./LeetCode/Medium/881.%20Boats%20to%20Save%20People.ts)

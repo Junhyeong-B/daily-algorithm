@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 159개
+# 현재까지 푼 문제 수: 🐥 163개
 ## LeetCode
 ### Easy
 - [1337. The K Weakest Rows in a Matrix](./LeetCode/Easy/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.ts)
@@ -62,6 +62,7 @@
 - [122. Best Time to Buy and Sell Stock II](./LeetCode/Medium/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.js)
 - [153. Find Minimum in Rotated Sorted Array](./LeetCode/Medium/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.js)
 - [36. Valid Sudoku](./LeetCode/Medium/36.%20Valid%20Sudoku.js)
+- [1721. Swapping Nodes in a Linked List](./LeetCode/Medium/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List.ts)
 - [73. Set Matrix Zeroes](./LeetCode/Medium/73.%20Set%20Matrix%20Zeroes.js)
 - [1029. Two City Scheduling](./LeetCode/Medium/1029.%20Two%20City%20Scheduling.ts)
 - [55. Jump Game](./LeetCode/Medium/55.%20Jump%20Game.js)
@@ -126,17 +127,20 @@
 - [음양 더하기](./Programmers/Lv1/%EC%9D%8C%EC%96%91%20%EB%8D%94%ED%95%98%EA%B8%B0.js)
 - [크레인 인형뽑기 게임](./Programmers/Lv1/%ED%81%AC%EB%A0%88%EC%9D%B8%20%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%20%EA%B2%8C%EC%9E%84.js)
 - [폰켓몬](./Programmers/Lv1/%ED%8F%B0%EC%BC%93%EB%AA%AC.js)
+- [2016년](./Programmers/Lv1/2016%EB%85%84.js)
 - [없는 숫자 더하기](./Programmers/Lv1/%EC%97%86%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%8D%94%ED%95%98%EA%B8%B0.js)
 - [체육복](./Programmers/Lv1/%EC%B2%B4%EC%9C%A1%EB%B3%B5.js)
 - [모의고사](./Programmers/Lv1/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.js)
 - [신고 결과 받기](./Programmers/Lv1/%EC%8B%A0%EA%B3%A0%20%EA%B2%B0%EA%B3%BC%20%EB%B0%9B%EA%B8%B0.js)
 - [신규 아이디 추천](./Programmers/Lv1/%EC%8B%A0%EA%B7%9C%20%EC%95%84%EC%9D%B4%EB%94%94%20%EC%B6%94%EC%B2%9C.js)
+- [최소직사각형](./Programmers/Lv1/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95.js)
 - [실패율](./Programmers/Lv1/%EC%8B%A4%ED%8C%A8%EC%9C%A8.js)
 - [키패드 누르기](./Programmers/Lv1/%ED%82%A4%ED%8C%A8%EB%93%9C%20%EB%88%84%EB%A5%B4%EA%B8%B0.js)
 - [완주하지 못한 선수](./Programmers/Lv1/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98.js)
 - [약수의 개수와 덧셈](./Programmers/Lv1/%EC%95%BD%EC%88%98%EC%9D%98%20%EA%B0%9C%EC%88%98%EC%99%80%20%EB%8D%A7%EC%85%88.js)
 - [로또의 최고 순위와 최저 순위](./Programmers/Lv1/%EB%A1%9C%EB%98%90%EC%9D%98%20%EC%B5%9C%EA%B3%A0%20%EC%88%9C%EC%9C%84%EC%99%80%20%EC%B5%9C%EC%A0%80%20%EC%88%9C%EC%9C%84.js)
 - [3진법 뒤집기](./Programmers/Lv1/3%EC%A7%84%EB%B2%95%20%EB%92%A4%EC%A7%91%EA%B8%B0.js)
+- [두 개 뽑아서 더하기](./Programmers/Lv1/%EB%91%90%20%EA%B0%9C%20%EB%BD%91%EC%95%84%EC%84%9C%20%EB%8D%94%ED%95%98%EA%B8%B0.js)
 - [내적](./Programmers/Lv1/%EB%82%B4%EC%A0%81.js)
 - [K번째수](./Programmers/Lv1/K%EB%B2%88%EC%A7%B8%EC%88%98.js)
 - [숫자 문자열과 영단어](./Programmers/Lv1/%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4.js)

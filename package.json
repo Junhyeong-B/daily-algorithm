@@ -1,0 +1,11 @@
+{
+  "name": "coding-test-til",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Junhyeong-B/coding_test_practice.git",
+  "author": "JunHyeongB <aowlr0513@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}

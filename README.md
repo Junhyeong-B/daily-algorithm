@@ -2,8 +2,12 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 165개
+# 현재까지 푼 문제 수: 🐥 167개
 ## BOJ
+### Bronze
+- [2798 블랙잭](./BOJ/Bronze/2798%20%EB%B8%94%EB%9E%99%EC%9E%AD.js)
+### Gold
+- [2629 양팔저울](./BOJ/Gold/2629%20%EC%96%91%ED%8C%94%EC%A0%80%EC%9A%B8.js)
 ### Silver
 - [17610 양팔저울](./BOJ/Silver/17610%20%EC%96%91%ED%8C%94%EC%A0%80%EC%9A%B8.js)
 - [2447 별 찍기 - 10](./BOJ/Silver/2447%20%EB%B3%84%20%EC%B0%8D%EA%B8%B0%20-%2010.js)

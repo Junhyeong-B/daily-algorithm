@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 167개
+# 현재까지 푼 문제 수: 🐥 169개
 ## BOJ
 ### Bronze
 - [2798 블랙잭](./BOJ/Bronze/2798%20%EB%B8%94%EB%9E%99%EC%9E%AD.js)
@@ -11,6 +11,7 @@
 ### Silver
 - [17610 양팔저울](./BOJ/Silver/17610%20%EC%96%91%ED%8C%94%EC%A0%80%EC%9A%B8.js)
 - [2447 별 찍기 - 10](./BOJ/Silver/2447%20%EB%B3%84%20%EC%B0%8D%EA%B8%B0%20-%2010.js)
+- [15649 N과 M (1)](./BOJ/Silver/15649%20N%EA%B3%BC%20M%20%281%29.js)
 ## LeetCode
 ### Easy
 - [202. Happy Number](./LeetCode/Easy/202.%20Happy%20Number.ts)
@@ -19,6 +20,7 @@
 - [171. Excel Sheet Column Number](./LeetCode/Easy/171.%20Excel%20Sheet%20Column%20Number.js)
 - [234. Palindrome Linked List](./LeetCode/Easy/234.%20Palindrome%20Linked%20List.ts)
 - [168. Excel Sheet Column Title](./LeetCode/Easy/168.%20Excel%20Sheet%20Column%20Title.js)
+- [1046. Last Stone Weight](./LeetCode/Easy/1046.%20Last%20Stone%20Weight.ts)
 - [53. Maximum Subarray](./LeetCode/Easy/53.%20Maximum%20Subarray.js)
 - [704. Binary Search](./LeetCode/Easy/704.%20Binary%20Search.ts)
 - [121. Best Time to Buy and Sell Stock](./LeetCode/Easy/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.js)
@@ -124,6 +126,7 @@
 ## Practice
 - [linked-list](./Practice/linked-list.ts)
 - [trie](./Practice/trie.ts)
+- [doubly-linked-list](./Practice/doubly-linked-list.ts)
 - [heap](./Practice/heap.ts)
 - [queue](./Practice/queue.ts)
 - [shuffle](./Practice/shuffle.ts)

@@ -2,9 +2,10 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 172개
+# 현재까지 푼 문제 수: 🐥 174개
 ## BOJ
 ### Bronze
+- [16917 양념 반 후라이드 반](./BOJ/Bronze/16917%20%EC%96%91%EB%85%90%20%EB%B0%98%20%ED%9B%84%EB%9D%BC%EC%9D%B4%EB%93%9C%20%EB%B0%98.js)
 - [16968 차량 번호판 1](./BOJ/Bronze/16968%20%EC%B0%A8%EB%9F%89%20%EB%B2%88%ED%98%B8%ED%8C%90%201.js)
 - [2798 블랙잭](./BOJ/Bronze/2798%20%EB%B8%94%EB%9E%99%EC%9E%AD.js)
 ### Gold
@@ -83,6 +84,7 @@
 - [79. Word Search](./LeetCode/Medium/79.%20Word%20Search.js)
 - [55. Jump Game](./LeetCode/Medium/55.%20Jump%20Game.js)
 - [238. Product of Array Except Self](./LeetCode/Medium/238.%20Product%20of%20Array%20Except%20Self.ts)
+- [347. Top K Frequent Elements](./LeetCode/Medium/347.%20Top%20K%20Frequent%20Elements.ts)
 - [260. Single Number III](./LeetCode/Medium/260.%20Single%20Number%20III.ts)
 - [179. Largest Number](./LeetCode/Medium/179.%20Largest%20Number.js)
 - [130. Surrounded Regions](./LeetCode/Medium/130.%20Surrounded%20Regions.js)

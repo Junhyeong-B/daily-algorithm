@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 176개
+# 현재까지 푼 문제 수: 🐥 178개
 ## BOJ
 ### Bronze
 - [16917 양념 반 후라이드 반](./BOJ/Bronze/16917%20%EC%96%91%EB%85%90%20%EB%B0%98%20%ED%9B%84%EB%9D%BC%EC%9D%B4%EB%93%9C%20%EB%B0%98.js)
@@ -13,6 +13,7 @@
 ### Silver
 - [2447 별 찍기 - 10](./BOJ/Silver/2447%20%EB%B3%84%20%EC%B0%8D%EA%B8%B0%20-%2010.js)
 - [15649 N과 M (1)](./BOJ/Silver/15649%20N%EA%B3%BC%20M%20%281%29.js)
+- [16924 십자가 찾기](./BOJ/Silver/16924%20%EC%8B%AD%EC%9E%90%EA%B0%80%20%EC%B0%BE%EA%B8%B0.js)
 - [17610 양팔저울](./BOJ/Silver/17610%20%EC%96%91%ED%8C%94%EC%A0%80%EC%9A%B8.js)
 - [16922 로마 숫자 만들기](./BOJ/Silver/16922%20%EB%A1%9C%EB%A7%88%20%EC%88%AB%EC%9E%90%20%EB%A7%8C%EB%93%A4%EA%B8%B0.js)
 ## LeetCode
@@ -23,6 +24,7 @@
 - [703. Kth Largest Element in a Stream](./LeetCode/Easy/703.%20Kth%20Largest%20Element%20in%20a%20Stream.ts)
 - [171. Excel Sheet Column Number](./LeetCode/Easy/171.%20Excel%20Sheet%20Column%20Number.js)
 - [88. Merge Sorted Array](./LeetCode/Easy/88.%20Merge%20Sorted%20Array.js)
+- [1260. Shift 2D Grid](./LeetCode/Easy/1260.%20Shift%202D%20Grid.ts)
 - [283. Move Zeroes](./LeetCode/Easy/283.%20Move%20Zeroes.ts)
 - [344. Reverse String](./LeetCode/Easy/344.%20Reverse%20String.ts)
 - [53. Maximum Subarray](./LeetCode/Easy/53.%20Maximum%20Subarray.js)

@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 182개
+# 현재까지 푼 문제 수: 🐥 184개
 ## BOJ
 ### Bronze
 - [16917 양념 반 후라이드 반](./BOJ/Bronze/16917%20%EC%96%91%EB%85%90%20%EB%B0%98%20%ED%9B%84%EB%9D%BC%EC%9D%B4%EB%93%9C%20%EB%B0%98.js)
@@ -15,6 +15,7 @@
 - [2447 별 찍기 - 10](./BOJ/Silver/2447%20%EB%B3%84%20%EC%B0%8D%EA%B8%B0%20-%2010.js)
 - [15649 N과 M (1)](./BOJ/Silver/15649%20N%EA%B3%BC%20M%20%281%29.js)
 - [16943 숫자 재배치](./BOJ/Silver/16943%20%EC%88%AB%EC%9E%90%20%EC%9E%AC%EB%B0%B0%EC%B9%98.js)
+- [1037 약수](./BOJ/Silver/1037%20%EC%95%BD%EC%88%98.js)
 - [16924 십자가 찾기](./BOJ/Silver/16924%20%EC%8B%AD%EC%9E%90%EA%B0%80%20%EC%B0%BE%EA%B8%B0.js)
 - [16937 두 스티커](./BOJ/Silver/16937%20%EB%91%90%20%EC%8A%A4%ED%8B%B0%EC%BB%A4.js)
 - [17610 양팔저울](./BOJ/Silver/17610%20%EC%96%91%ED%8C%94%EC%A0%80%EC%9A%B8.js)
@@ -108,6 +109,7 @@
 - [15. 3Sum](./LeetCode/Medium/15.%203Sum.js)
 - [54. Spiral Matrix](./LeetCode/Medium/54.%20Spiral%20Matrix.js)
 - [304. Range Sum Query 2D - Immutable](./LeetCode/Medium/304.%20Range%20Sum%20Query%202D%20-%20Immutable.ts)
+- [700. Search in a Binary Search Tree](./LeetCode/Medium/700.%20Search%20in%20a%20Binary%20Search%20Tree.ts)
 - [204. Count Primes](./LeetCode/Medium/204.%20Count%20Primes.ts)
 - [64. Minimum Path Sum](./LeetCode/Medium/64.%20Minimum%20Path%20Sum.js)
 - [18. 4Sum](./LeetCode/Medium/18.%204Sum.js)

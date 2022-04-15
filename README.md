@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 184개
+# 현재까지 푼 문제 수: 🐥 187개
 ## BOJ
 ### Bronze
 - [16917 양념 반 후라이드 반](./BOJ/Bronze/16917%20%EC%96%91%EB%85%90%20%EB%B0%98%20%ED%9B%84%EB%9D%BC%EC%9D%B4%EB%93%9C%20%EB%B0%98.js)
@@ -107,6 +107,7 @@
 - [139. Word Break](./LeetCode/Medium/139.%20Word%20Break.js)
 - [189. Rotate Array](./LeetCode/Medium/189.%20Rotate%20Array.js)
 - [15. 3Sum](./LeetCode/Medium/15.%203Sum.js)
+- [669. Trim a Binary Search Tree](./LeetCode/Medium/669.%20Trim%20a%20Binary%20Search%20Tree.ts)
 - [54. Spiral Matrix](./LeetCode/Medium/54.%20Spiral%20Matrix.js)
 - [304. Range Sum Query 2D - Immutable](./LeetCode/Medium/304.%20Range%20Sum%20Query%202D%20-%20Immutable.ts)
 - [700. Search in a Binary Search Tree](./LeetCode/Medium/700.%20Search%20in%20a%20Binary%20Search%20Tree.ts)
@@ -151,6 +152,7 @@
 - [실패율](./Programmers/Lv1/%EC%8B%A4%ED%8C%A8%EC%9C%A8.js)
 - [폰켓몬](./Programmers/Lv1/%ED%8F%B0%EC%BC%93%EB%AA%AC.js)
 - [약수의 개수와 덧셈](./Programmers/Lv1/%EC%95%BD%EC%88%98%EC%9D%98%20%EA%B0%9C%EC%88%98%EC%99%80%20%EB%8D%A7%EC%85%88.js)
+- [나머지가 1이 되는 수 찾기](./Programmers/Lv1/%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%80%201%EC%9D%B4%20%EB%90%98%EB%8A%94%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.js)
 - [K번째수](./Programmers/Lv1/K%EB%B2%88%EC%A7%B8%EC%88%98.js)
 - [최소직사각형](./Programmers/Lv1/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95.js)
 - [2016년](./Programmers/Lv1/2016%EB%85%84.js)
@@ -171,6 +173,7 @@
 - [로또의 최고 순위와 최저 순위](./Programmers/Lv1/%EB%A1%9C%EB%98%90%EC%9D%98%20%EC%B5%9C%EA%B3%A0%20%EC%88%9C%EC%9C%84%EC%99%80%20%EC%B5%9C%EC%A0%80%20%EC%88%9C%EC%9C%84.js)
 - [음양 더하기](./Programmers/Lv1/%EC%9D%8C%EC%96%91%20%EB%8D%94%ED%95%98%EA%B8%B0.js)
 - [숫자의 표현](./Programmers/Lv1/%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%91%9C%ED%98%84.js)
+- [부족한 금액 계산하기](./Programmers/Lv1/%EB%B6%80%EC%A1%B1%ED%95%9C%20%EA%B8%88%EC%95%A1%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0.js)
 ### Lv2
 - [괄호 변환](./Programmers/Lv2/%EA%B4%84%ED%98%B8%20%EB%B3%80%ED%99%98.js)
 - [거리두기 확인하기](./Programmers/Lv2/%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0.js)

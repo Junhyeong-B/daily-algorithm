@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 189개
+# 현재까지 푼 문제 수: 🐥 191개
 ## BOJ
 ### Bronze
 - [16917 양념 반 후라이드 반](./BOJ/Bronze/16917%20%EC%96%91%EB%85%90%20%EB%B0%98%20%ED%9B%84%EB%9D%BC%EC%9D%B4%EB%93%9C%20%EB%B0%98.js)
@@ -13,6 +13,7 @@
 - [16938 캠프 준비](./BOJ/Gold/16938%20%EC%BA%A0%ED%94%84%20%EC%A4%80%EB%B9%84.js)
 ### Silver
 - [17427 약수의 합2](./BOJ/Silver/17427%20%EC%95%BD%EC%88%98%EC%9D%98%20%ED%95%A92.js)
+- [6588 골드바흐의 추측](./BOJ/Silver/6588%20%EA%B3%A8%EB%93%9C%EB%B0%94%ED%9D%90%EC%9D%98%20%EC%B6%94%EC%B8%A1.js)
 - [2447 별 찍기 - 10](./BOJ/Silver/2447%20%EB%B3%84%20%EC%B0%8D%EA%B8%B0%20-%2010.js)
 - [1978 소수 찾기](./BOJ/Silver/1978%20%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0.js)
 - [15649 N과 M (1)](./BOJ/Silver/15649%20N%EA%B3%BC%20M%20%281%29.js)
@@ -48,6 +49,7 @@
 - [169. Majority Element](./LeetCode/Easy/169.%20Majority%20Element.js)
 - [704. Binary Search](./LeetCode/Easy/704.%20Binary%20Search.ts)
 - [682. Baseball Game](./LeetCode/Easy/682.%20Baseball%20Game.ts)
+- [897. Increasing Order Search Tree](./LeetCode/Easy/897.%20Increasing%20Order%20Search%20Tree.ts)
 - [258. Add Digits](./LeetCode/Easy/258.%20Add%20Digits.ts)
 - [202. Happy Number](./LeetCode/Easy/202.%20Happy%20Number.ts)
 - [58. Length of Last Word](./LeetCode/Easy/58.%20Length%20of%20Last%20Word.js)

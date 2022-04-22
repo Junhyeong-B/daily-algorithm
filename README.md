@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 192개
+# 현재까지 푼 문제 수: 🐥 193개
 ## BOJ
 ### Bronze
 - [16917 양념 반 후라이드 반](./BOJ/Bronze/16917%20%EC%96%91%EB%85%90%20%EB%B0%98%20%ED%9B%84%EB%9D%BC%EC%9D%B4%EB%93%9C%20%EB%B0%98.js)
@@ -42,6 +42,7 @@
 - [121. Best Time to Buy and Sell Stock](./LeetCode/Easy/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.js)
 - [21. Merge Two Sorted Lists](./LeetCode/Easy/21.%20Merge%20Two%20Sorted%20Lists.ts)
 - [168. Excel Sheet Column Title](./LeetCode/Easy/168.%20Excel%20Sheet%20Column%20Title.js)
+- [706. Design HashMap](./LeetCode/Easy/706.%20Design%20HashMap.ts)
 - [1046. Last Stone Weight](./LeetCode/Easy/1046.%20Last%20Stone%20Weight.ts)
 - [1337. The K Weakest Rows in a Matrix](./LeetCode/Easy/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.ts)
 - [234. Palindrome Linked List](./LeetCode/Easy/234.%20Palindrome%20Linked%20List.ts)

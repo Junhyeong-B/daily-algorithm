@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 194개
+# 현재까지 푼 문제 수: 🐥 195개
 ## BOJ
 ### Bronze
 - [16917 양념 반 후라이드 반](./BOJ/Bronze/16917%20%EC%96%91%EB%85%90%20%EB%B0%98%20%ED%9B%84%EB%9D%BC%EC%9D%B4%EB%93%9C%20%EB%B0%98.js)
@@ -86,6 +86,7 @@
 - [216. Combination Sum III](./LeetCode/Medium/216.%20Combination%20Sum%20III.ts)
 - [187. Repeated DNA Sequences](./LeetCode/Medium/187.%20Repeated%20DNA%20Sequences.js)
 - [77. Combinations](./LeetCode/Medium/77.%20Combinations.js)
+- [1396. Design Underground System](./LeetCode/Medium/1396.%20Design%20Underground%20System.ts)
 - [167. Two Sum II - Input Array Is Sorted](./LeetCode/Medium/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.js)
 - [36. Valid Sudoku](./LeetCode/Medium/36.%20Valid%20Sudoku.js)
 - [57. Insert Interval](./LeetCode/Medium/57.%20Insert%20Interval.js)

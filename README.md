@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 199개
+# 현재까지 푼 문제 수: 🐥 201개
 ## BOJ
 ### Bronze
 - [16917 양념 반 후라이드 반](./BOJ/Bronze/16917%20%EC%96%91%EB%85%90%20%EB%B0%98%20%ED%9B%84%EB%9D%BC%EC%9D%B4%EB%93%9C%20%EB%B0%98.js)
@@ -29,6 +29,7 @@
 - [283. Move Zeroes](./LeetCode/Easy/283.%20Move%20Zeroes.ts)
 - [705. Design HashSet](./LeetCode/Easy/705.%20Design%20HashSet.ts)
 - [1260. Shift 2D Grid](./LeetCode/Easy/1260.%20Shift%202D%20Grid.ts)
+- [268. Missing Number](./LeetCode/Easy/268.%20Missing%20Number.ts)
 - [703. Kth Largest Element in a Stream](./LeetCode/Easy/703.%20Kth%20Largest%20Element%20in%20a%20Stream.ts)
 - [258. Add Digits](./LeetCode/Easy/258.%20Add%20Digits.ts)
 - [169. Majority Element](./LeetCode/Easy/169.%20Majority%20Element.js)
@@ -97,6 +98,7 @@
 - [131. Palindrome Partitioning](./LeetCode/Medium/131.%20Palindrome%20Partitioning.js)
 - [700. Search in a Binary Search Tree](./LeetCode/Medium/700.%20Search%20in%20a%20Binary%20Search%20Tree.ts)
 - [18. 4Sum](./LeetCode/Medium/18.%204Sum.js)
+- [33. Search in Rotated Sorted Array](./LeetCode/Medium/33.%20Search%20in%20Rotated%20Sorted%20Array.ts)
 - [55. Jump Game](./LeetCode/Medium/55.%20Jump%20Game.js)
 - [300. Longest Increasing Subsequence](./LeetCode/Medium/300.%20Longest%20Increasing%20Subsequence.ts)
 - [11. Container With Most Water](./LeetCode/Medium/11.%20Container%20With%20Most%20Water.ts)

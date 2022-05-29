@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 201개
+# 현재까지 푼 문제 수: 🐥 202개
 ## BOJ
 ### Bronze
 - [16917 양념 반 후라이드 반](./BOJ/Bronze/16917%20%EC%96%91%EB%85%90%20%EB%B0%98%20%ED%9B%84%EB%9D%BC%EC%9D%B4%EB%93%9C%20%EB%B0%98.js)
@@ -104,6 +104,7 @@
 - [11. Container With Most Water](./LeetCode/Medium/11.%20Container%20With%20Most%20Water.ts)
 - [56. Merge Intervals](./LeetCode/Medium/56.%20Merge%20Intervals.js)
 - [238. Product of Array Except Self](./LeetCode/Medium/238.%20Product%20of%20Array%20Except%20Self.ts)
+- [318. Maximum Product of Word Lengths](./LeetCode/Medium/318.%20Maximum%20Product%20of%20Word%20Lengths.ts)
 - [77. Combinations](./LeetCode/Medium/77.%20Combinations.js)
 - [12. Integer to Roman](./LeetCode/Medium/12.%20Integer%20to%20Roman.js)
 - [207. Course Schedule](./LeetCode/Medium/207.%20Course%20Schedule.ts)

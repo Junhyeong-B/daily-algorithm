@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 202개
+# 현재까지 푼 문제 수: 🐥 203개
 ## BOJ
 ### Bronze
 - [16917 양념 반 후라이드 반](./BOJ/Bronze/16917%20%EC%96%91%EB%85%90%20%EB%B0%98%20%ED%9B%84%EB%9D%BC%EC%9D%B4%EB%93%9C%20%EB%B0%98.js)
@@ -47,6 +47,7 @@
 - [119. Pascal's Triangle II](./LeetCode/Easy/119.%20Pascal%27s%20Triangle%20II.js)
 - [231. Power of Two](./LeetCode/Easy/231.%20Power%20of%20Two.ts)
 - [242. Valid Anagram](./LeetCode/Easy/242.%20Valid%20Anagram.ts)
+- [1480. Running Sum of 1d Array](./LeetCode/Easy/1480.%20Running%20Sum%20of%201d%20Array.ts)
 - [897. Increasing Order Search Tree](./LeetCode/Easy/897.%20Increasing%20Order%20Search%20Tree.ts)
 - [682. Baseball Game](./LeetCode/Easy/682.%20Baseball%20Game.ts)
 - [1337. The K Weakest Rows in a Matrix](./LeetCode/Easy/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.ts)

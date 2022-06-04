@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 205개
+# 현재까지 푼 문제 수: 🐥 206개
 ## BOJ
 ### Bronze
 - [16968 차량 번호판 1](./BOJ/Bronze/16968%20%EC%B0%A8%EB%9F%89%20%EB%B2%88%ED%98%B8%ED%8C%90%201.js)
@@ -75,6 +75,7 @@
 - [32. Longest Valid Parentheses](./LeetCode/Hard/32.%20Longest%20Valid%20Parentheses.js)
 - [42. Trapping Rain Water](./LeetCode/Hard/42.%20Trapping%20Rain%20Water.js)
 - [410. Split Array Largest Sum](./LeetCode/Hard/410.%20Split%20Array%20Largest%20Sum.ts)
+- [51. N-Queens(220604)](./LeetCode/Hard/51.%20N-Queens%28220604%29.ts)
 - [212. Word Search II](./LeetCode/Hard/212.%20Word%20Search%20II.ts)
 - [174. Dungeon Game](./LeetCode/Hard/174.%20Dungeon%20Game.js)
 - [154. Find Minimum in Rotated Sorted Array II](./LeetCode/Hard/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.js)

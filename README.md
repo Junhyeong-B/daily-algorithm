@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 206개
+# 현재까지 푼 문제 수: 🐥 208개
 ## BOJ
 ### Bronze
 - [16968 차량 번호판 1](./BOJ/Bronze/16968%20%EC%B0%A8%EB%9F%89%20%EB%B2%88%ED%98%B8%ED%8C%90%201.js)
@@ -42,6 +42,7 @@
 - [136. Single Number](./LeetCode/Easy/136.%20Single%20Number.js)
 - [202. Happy Number](./LeetCode/Easy/202.%20Happy%20Number.ts)
 - [1480. Running Sum of 1d Array](./LeetCode/Easy/1480.%20Running%20Sum%20of%201d%20Array.ts)
+- [70. Climbing Stairs](./LeetCode/Easy/70.%20Climbing%20Stairs.ts)
 - [704. Binary Search](./LeetCode/Easy/704.%20Binary%20Search.ts)
 - [349. Intersection of Two Arrays](./LeetCode/Easy/349.%20Intersection%20of%20Two%20Arrays.ts)
 - [118. Pascal's Triangle](./LeetCode/Easy/118.%20Pascal%27s%20Triangle.js)
@@ -49,6 +50,7 @@
 - [242. Valid Anagram](./LeetCode/Easy/242.%20Valid%20Anagram.ts)
 - [705. Design HashSet](./LeetCode/Easy/705.%20Design%20HashSet.ts)
 - [21. Merge Two Sorted Lists](./LeetCode/Easy/21.%20Merge%20Two%20Sorted%20Lists.ts)
+- [67. Add Binary](./LeetCode/Easy/67.%20Add%20Binary.ts)
 - [682. Baseball Game](./LeetCode/Easy/682.%20Baseball%20Game.ts)
 - [1046. Last Stone Weight](./LeetCode/Easy/1046.%20Last%20Stone%20Weight.ts)
 - [290. Word Pattern](./LeetCode/Easy/290.%20Word%20Pattern.ts)

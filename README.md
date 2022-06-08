@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 209개
+# 현재까지 푼 문제 수: 🐥 210개
 ## BOJ
 ### Bronze
 - [16968 차량 번호판 1](./BOJ/Bronze/16968%20%EC%B0%A8%EB%9F%89%20%EB%B2%88%ED%98%B8%ED%8C%90%201.js)
@@ -31,6 +31,7 @@
 - [703. Kth Largest Element in a Stream](./LeetCode/Easy/703.%20Kth%20Largest%20Element%20in%20a%20Stream.ts)
 - [283. Move Zeroes](./LeetCode/Easy/283.%20Move%20Zeroes.ts)
 - [88. Merge Sorted Array](./LeetCode/Easy/88.%20Merge%20Sorted%20Array.js)
+- [1332. Remove Palindromic Subsequences](./LeetCode/Easy/1332.%20Remove%20Palindromic%20Subsequences.ts)
 - [1260. Shift 2D Grid](./LeetCode/Easy/1260.%20Shift%202D%20Grid.ts)
 - [1337. The K Weakest Rows in a Matrix](./LeetCode/Easy/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.ts)
 - [344. Reverse String](./LeetCode/Easy/344.%20Reverse%20String.ts)

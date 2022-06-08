@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 208개
+# 현재까지 푼 문제 수: 🐥 209개
 ## BOJ
 ### Bronze
 - [16968 차량 번호판 1](./BOJ/Bronze/16968%20%EC%B0%A8%EB%9F%89%20%EB%B2%88%ED%98%B8%ED%8C%90%201.js)
@@ -107,6 +107,7 @@
 - [49. Group Anagrams](./LeetCode/Medium/49.%20Group%20Anagrams.js)
 - [78. Subsets](./LeetCode/Medium/78.%20Subsets.js)
 - [131. Palindrome Partitioning](./LeetCode/Medium/131.%20Palindrome%20Partitioning.js)
+- [40. Combination Sum II](./LeetCode/Medium/40.%20Combination%20Sum%20II.ts)
 - [11. Container With Most Water](./LeetCode/Medium/11.%20Container%20With%20Most%20Water.ts)
 - [669. Trim a Binary Search Tree](./LeetCode/Medium/669.%20Trim%20a%20Binary%20Search%20Tree.ts)
 - [318. Maximum Product of Word Lengths](./LeetCode/Medium/318.%20Maximum%20Product%20of%20Word%20Lengths.ts)

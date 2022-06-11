@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 211개
+# 현재까지 푼 문제 수: 🐥 212개
 ## BOJ
 ### Bronze
 - [16968 차량 번호판 1](./BOJ/Bronze/16968%20%EC%B0%A8%EB%9F%89%20%EB%B2%88%ED%98%B8%ED%8C%90%201.js)
@@ -120,6 +120,7 @@
 - [167. Two Sum II - Input Array Is Sorted](./LeetCode/Medium/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.js)
 - [80. Remove Duplicates from Sorted Array II](./LeetCode/Medium/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.js)
 - [47. Permutations II](./LeetCode/Medium/47.%20Permutations%20II.js)
+- [1658. Minimum Operations to Reduce X to Zero](./LeetCode/Medium/1658.%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero.ts)
 - [264. Ugly Number II](./LeetCode/Medium/264.%20Ugly%20Number%20II.ts)
 - [2. Add Two Numbers](./LeetCode/Medium/2.%20Add%20Two%20Numbers.ts)
 - [238. Product of Array Except Self](./LeetCode/Medium/238.%20Product%20of%20Array%20Except%20Self.ts)

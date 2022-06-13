@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 212개
+# 현재까지 푼 문제 수: 🐥 213개
 ## BOJ
 ### Bronze
 - [16968 차량 번호판 1](./BOJ/Bronze/16968%20%EC%B0%A8%EB%9F%89%20%EB%B2%88%ED%98%B8%ED%8C%90%201.js)
@@ -147,6 +147,7 @@
 - [300. Longest Increasing Subsequence](./LeetCode/Medium/300.%20Longest%20Increasing%20Subsequence.ts)
 - [31. Next Permutation](./LeetCode/Medium/31.%20Next%20Permutation.ts)
 - [79. Word Search](./LeetCode/Medium/79.%20Word%20Search.js)
+- [1695. Maximum Erasure Value](./LeetCode/Medium/1695.%20Maximum%20Erasure%20Value.ts)
 - [19. Remove Nth Node From End of List](./LeetCode/Medium/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.ts)
 - [209. Minimum Size Subarray Sum](./LeetCode/Medium/209.%20Minimum%20Size%20Subarray%20Sum.ts)
 - [289. Game of Life](./LeetCode/Medium/289.%20Game%20of%20Life.ts)

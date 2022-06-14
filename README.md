@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 213개
+# 현재까지 푼 문제 수: 🐥 214개
 ## BOJ
 ### Bronze
 - [16968 차량 번호판 1](./BOJ/Bronze/16968%20%EC%B0%A8%EB%9F%89%20%EB%B2%88%ED%98%B8%ED%8C%90%201.js)
@@ -163,6 +163,7 @@
 - [284. Peeking Iterator](./LeetCode/Medium/284.%20Peeking%20Iterator.ts)
 - [48. Rotate Image](./LeetCode/Medium/48.%20Rotate%20Image.js)
 - [179. Largest Number](./LeetCode/Medium/179.%20Largest%20Number.js)
+- [120. Triangle](./LeetCode/Medium/120.%20Triangle.ts)
 ## Practice
 - [heap](./Practice/heap.ts)
 - [shuffle](./Practice/shuffle.ts)

@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 214개
+# 현재까지 푼 문제 수: 🐥 215개
 ## BOJ
 ### Bronze
 - [16968 차량 번호판 1](./BOJ/Bronze/16968%20%EC%B0%A8%EB%9F%89%20%EB%B2%88%ED%98%B8%ED%8C%90%201.js)
@@ -26,6 +26,7 @@
 - [16943 숫자 재배치](./BOJ/Silver/16943%20%EC%88%AB%EC%9E%90%20%EC%9E%AC%EB%B0%B0%EC%B9%98.js)
 ## LeetCode
 ### Easy
+- [83. Remove Duplicates from Sorted List](./LeetCode/Easy/83.%20Remove%20Duplicates%20from%20Sorted%20List.ts)
 - [232. Implement Queue using Stacks](./LeetCode/Easy/232.%20Implement%20Queue%20using%20Stacks.ts)
 - [58. Length of Last Word](./LeetCode/Easy/58.%20Length%20of%20Last%20Word.js)
 - [703. Kth Largest Element in a Stream](./LeetCode/Easy/703.%20Kth%20Largest%20Element%20in%20a%20Stream.ts)

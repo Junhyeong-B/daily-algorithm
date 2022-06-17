@@ -4,7 +4,7 @@
    * Memory Usage: 46.1 MB, less than 68.37% of TypeScript online submissions for Longest Palindromic Substring.
    */
 
-  function longestPalindrome(s: string): string {
+  const longestPalindrome = (s: string): string => {
     let longestPalindrome = "";
 
     for (let i = 0; i < s.length; i++) {

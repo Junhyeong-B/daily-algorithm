@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 216개
+# 현재까지 푼 문제 수: 🐥 217개
 ## BOJ
 ### Bronze
 - [2798 블랙잭](./BOJ/Bronze/2798%20%EB%B8%94%EB%9E%99%EC%9E%AD.js)
@@ -80,6 +80,7 @@
 - [42. Trapping Rain Water](./LeetCode/Hard/42.%20Trapping%20Rain%20Water.js)
 - [52. N-Queens II](./LeetCode/Hard/52.%20N-Queens%20II.js)
 - [127. Word Ladder](./LeetCode/Hard/127.%20Word%20Ladder.js)
+- [68. Text Justification](./LeetCode/Hard/68.%20Text%20Justification.ts)
 - [10. Regular Expression Matching](./LeetCode/Hard/10.%20Regular%20Expression%20Matching.js)
 - [154. Find Minimum in Rotated Sorted Array II](./LeetCode/Hard/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.js)
 - [214. Shortest Palindrome](./LeetCode/Hard/214.%20Shortest%20Palindrome.ts)

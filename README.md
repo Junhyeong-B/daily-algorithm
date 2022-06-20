@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 217개
+# 현재까지 푼 문제 수: 🐥 218개
 ## BOJ
 ### Bronze
 - [2798 블랙잭](./BOJ/Bronze/2798%20%EB%B8%94%EB%9E%99%EC%9E%AD.js)
@@ -44,6 +44,7 @@
 - [136. Single Number](./LeetCode/Easy/136.%20Single%20Number.js)
 - [119. Pascal's Triangle II](./LeetCode/Easy/119.%20Pascal%27s%20Triangle%20II.js)
 - [897. Increasing Order Search Tree](./LeetCode/Easy/897.%20Increasing%20Order%20Search%20Tree.ts)
+- [367. Valid Perfect Square](./LeetCode/Easy/367.%20Valid%20Perfect%20Square.ts)
 - [171. Excel Sheet Column Number](./LeetCode/Easy/171.%20Excel%20Sheet%20Column%20Number.js)
 - [67. Add Binary](./LeetCode/Easy/67.%20Add%20Binary.ts)
 - [268. Missing Number](./LeetCode/Easy/268.%20Missing%20Number.ts)

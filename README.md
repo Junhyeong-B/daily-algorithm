@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 222개
+# 현재까지 푼 문제 수: 🐥 223개
 ## BOJ
 ### Bronze
 - [16917 양념 반 후라이드 반](./BOJ/Bronze/16917%20%EC%96%91%EB%85%90%20%EB%B0%98%20%ED%9B%84%EB%9D%BC%EC%9D%B4%EB%93%9C%20%EB%B0%98.js)
@@ -100,6 +100,7 @@
 - [264. Ugly Number II](./LeetCode/Medium/264.%20Ugly%20Number%20II.ts)
 - [700. Search in a Binary Search Tree](./LeetCode/Medium/700.%20Search%20in%20a%20Binary%20Search%20Tree.ts)
 - [300. Longest Increasing Subsequence](./LeetCode/Medium/300.%20Longest%20Increasing%20Subsequence.ts)
+- [1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](./LeetCode/Medium/1465.%20Maximum%20Area%20of%20a%20Piece%20of%20Cake%20After%20Horizontal%20and%20Vertical%20Cuts.ts)
 - [55. Jump Game](./LeetCode/Medium/55.%20Jump%20Game.js)
 - [240. Search a 2D Matrix II](./LeetCode/Medium/240.%20Search%20a%202D%20Matrix%20II.ts)
 - [1721. Swapping Nodes in a Linked List](./LeetCode/Medium/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List.ts)

@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 223개
+# 현재까지 푼 문제 수: 🐥 224개
 ## BOJ
 ### Bronze
 - [16917 양념 반 후라이드 반](./BOJ/Bronze/16917%20%EC%96%91%EB%85%90%20%EB%B0%98%20%ED%9B%84%EB%9D%BC%EC%9D%B4%EB%93%9C%20%EB%B0%98.js)
@@ -89,6 +89,7 @@
 - [410. Split Array Largest Sum](./LeetCode/Hard/410.%20Split%20Array%20Largest%20Sum.ts)
 ### Medium
 - [881. Boats to Save People](./LeetCode/Medium/881.%20Boats%20to%20Save%20People.ts)
+- [376. Wiggle Subsequence](./LeetCode/Medium/376.%20Wiggle%20Subsequence.ts)
 - [1658. Minimum Operations to Reduce X to Zero](./LeetCode/Medium/1658.%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero.ts)
 - [22. Generate Parentheses](./LeetCode/Medium/22.%20Generate%20Parentheses.js)
 - [39. Combination Sum](./LeetCode/Medium/39.%20Combination%20Sum.js)

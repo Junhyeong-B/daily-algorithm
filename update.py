@@ -1,5 +1,6 @@
 import os
 from urllib import parse
+import re
 
 
 def count_problem():
@@ -63,12 +64,19 @@ def main():
             content += "### {}\n".format(directory)
             directories.append(directory)
 
+        fileArray = []
         for file in files:
             filename, extention = os.path.splitext(file)
-            if extention == ".js" or extention == ".ts":
 
-                content += "- [{}]({})\n".format(filename,
-                                                 parse.quote(os.path.join(root, file)))
+            if extention == ".js" or extention == ".ts":
+                questionNumber = re.sub(r'[^0-9]', '', file)
+                num = int(questionNumber) if questionNumber != "" else 0
+                fileArray.append([num,
+                                  "- [{}]({})\n".format(filename, parse.quote(os.path.join(root, file)))])
+
+        fileArray.sort(key=lambda x: x[0])
+        for fileDir in fileArray:
+            content += fileDir[1]
 
     with open("README.md", "w", encoding="UTF-8") as fd:
         fd.write(content)

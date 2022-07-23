@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 229개
+# 현재까지 푼 문제 수: 🐥 230개
 ## BOJ
 ### Bronze
 - [2798 블랙잭](./BOJ/Bronze/2798%20%EB%B8%94%EB%9E%99%EC%9E%AD.js)
@@ -164,6 +164,7 @@
 - [347. Top K Frequent Elements](./LeetCode/Medium/347.%20Top%20K%20Frequent%20Elements.ts)
 - [376. Wiggle Subsequence](./LeetCode/Medium/376.%20Wiggle%20Subsequence.ts)
 - [394. Decode String](./LeetCode/Medium/394.%20Decode%20String.ts)
+- [402. Remove K Digits](./LeetCode/Medium/402.%20Remove%20K%20Digits.ts)
 - [576. Out of Boundary Paths](./LeetCode/Medium/576.%20Out%20of%20Boundary%20Paths.ts)
 - [665. Non-decreasing Array](./LeetCode/Medium/665.%20Non-decreasing%20Array.ts)
 - [669. Trim a Binary Search Tree](./LeetCode/Medium/669.%20Trim%20a%20Binary%20Search%20Tree.ts)

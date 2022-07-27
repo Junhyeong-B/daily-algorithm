@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 231개
+# 현재까지 푼 문제 수: 🐥 232개
 ## BOJ
 ### Bronze
 - [2798 블랙잭](./BOJ/Bronze/2798%20%EB%B8%94%EB%9E%99%EC%9E%AD.js)
@@ -127,6 +127,7 @@
 - [93. Restore IP Addresses](./LeetCode/Medium/93.%20Restore%20IP%20Addresses.js)
 - [97. Interleaving String](./LeetCode/Medium/97.%20Interleaving%20String.js)
 - [102. Binary Tree Level Order Traversal](./LeetCode/Medium/102.%20Binary%20Tree%20Level%20Order%20Traversal.ts)
+- [114. Flatten Binary Tree to Linked List](./LeetCode/Medium/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.ts)
 - [120. Triangle](./LeetCode/Medium/120.%20Triangle.ts)
 - [122. Best Time to Buy and Sell Stock II](./LeetCode/Medium/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.js)
 - [128. Longest Consecutive Sequence](./LeetCode/Medium/128.%20Longest%20Consecutive%20Sequence.js)

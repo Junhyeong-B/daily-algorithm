@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 234개
+# 현재까지 푼 문제 수: 🐥 235개
 ## BOJ
 ### Bronze
 - [2798 블랙잭](./BOJ/Bronze/2798%20%EB%B8%94%EB%9E%99%EC%9E%AD.js)
@@ -90,6 +90,7 @@
 - [214. Shortest Palindrome](./LeetCode/Hard/214.%20Shortest%20Palindrome.ts)
 - [321. Create Maximum Number](./LeetCode/Hard/321.%20Create%20Maximum%20Number.ts)
 - [410. Split Array Largest Sum](./LeetCode/Hard/410.%20Split%20Array%20Largest%20Sum.ts)
+- [1220. Count Vowels Permutation](./LeetCode/Hard/1220.%20Count%20Vowels%20Permutation.ts)
 - [51. N-Queens(220604)](./LeetCode/Hard/51.%20N-Queens%28220604%29.ts)
 ### Medium
 - [2. Add Two Numbers](./LeetCode/Medium/2.%20Add%20Two%20Numbers.ts)

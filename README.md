@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 236개
+# 현재까지 푼 문제 수: 🐥 237개
 ## BOJ
 ### Bronze
 - [2798 블랙잭](./BOJ/Bronze/2798%20%EB%B8%94%EB%9E%99%EC%9E%AD.js)
@@ -81,6 +81,7 @@
 - [60. Permutation Sequence](./LeetCode/Hard/60.%20Permutation%20Sequence.js)
 - [68. Text Justification](./LeetCode/Hard/68.%20Text%20Justification.ts)
 - [84. Largest Rectangle in Histogram](./LeetCode/Hard/84.%20Largest%20Rectangle%20in%20Histogram.ts)
+- [120. Word Ladder II](./LeetCode/Hard/120.%20Word%20Ladder%20II.ts)
 - [123. Best Time to Buy and Sell Stock III](./LeetCode/Hard/123.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III.js)
 - [127. Word Ladder](./LeetCode/Hard/127.%20Word%20Ladder.js)
 - [140. Word Break II](./LeetCode/Hard/140.%20Word%20Break%20II.js)

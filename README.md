@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 240개
+# 현재까지 푼 문제 수: 🐥 242개
 ## BOJ
 ### Bronze
 - [2798 블랙잭](./BOJ/Bronze/2798%20%EB%B8%94%EB%9E%99%EC%9E%AD.js)
@@ -82,8 +82,8 @@
 - [60. Permutation Sequence](./LeetCode/Hard/60.%20Permutation%20Sequence.js)
 - [68. Text Justification](./LeetCode/Hard/68.%20Text%20Justification.ts)
 - [84. Largest Rectangle in Histogram](./LeetCode/Hard/84.%20Largest%20Rectangle%20in%20Histogram.ts)
-- [120. Word Ladder II](./LeetCode/Hard/120.%20Word%20Ladder%20II.ts)
 - [123. Best Time to Buy and Sell Stock III](./LeetCode/Hard/123.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III.js)
+- [126. Word Ladder II](./LeetCode/Hard/126.%20Word%20Ladder%20II.ts)
 - [127. Word Ladder](./LeetCode/Hard/127.%20Word%20Ladder.js)
 - [140. Word Break II](./LeetCode/Hard/140.%20Word%20Break%20II.js)
 - [154. Find Minimum in Rotated Sorted Array II](./LeetCode/Hard/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.js)
@@ -202,6 +202,7 @@
 ## Programmers
 ### Lv1
 - [숫자의 표현](./Programmers/Lv1/%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%91%9C%ED%98%84.js)
+- [직사각형 별찍기](./Programmers/Lv1/%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%20%EB%B3%84%EC%B0%8D%EA%B8%B0.js)
 - [음양 더하기](./Programmers/Lv1/%EC%9D%8C%EC%96%91%20%EB%8D%94%ED%95%98%EA%B8%B0.js)
 - [신규 아이디 추천](./Programmers/Lv1/%EC%8B%A0%EA%B7%9C%20%EC%95%84%EC%9D%B4%EB%94%94%20%EC%B6%94%EC%B2%9C.js)
 - [내적](./Programmers/Lv1/%EB%82%B4%EC%A0%81.js)
@@ -219,6 +220,7 @@
 - [크레인 인형뽑기 게임](./Programmers/Lv1/%ED%81%AC%EB%A0%88%EC%9D%B8%20%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%20%EA%B2%8C%EC%9E%84.js)
 - [소수 만들기](./Programmers/Lv1/%EC%86%8C%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.js)
 - [두 개 뽑아서 더하기](./Programmers/Lv1/%EB%91%90%20%EA%B0%9C%20%EB%BD%91%EC%95%84%EC%84%9C%20%EB%8D%94%ED%95%98%EA%B8%B0.js)
+- [같은 숫자는 싫어](./Programmers/Lv1/%EA%B0%99%EC%9D%80%20%EC%88%AB%EC%9E%90%EB%8A%94%20%EC%8B%AB%EC%96%B4.js)
 - [체육복](./Programmers/Lv1/%EC%B2%B4%EC%9C%A1%EB%B3%B5.js)
 - [K번째수](./Programmers/Lv1/K%EB%B2%88%EC%A7%B8%EC%88%98.js)
 - [수박수박수박수박수박수](./Programmers/Lv1/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98.js)

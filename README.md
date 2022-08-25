@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 242개
+# 현재까지 푼 문제 수: 🐥 245개
 ## BOJ
 ### Bronze
 - [2798 블랙잭](./BOJ/Bronze/2798%20%EB%B8%94%EB%9E%99%EC%9E%AD.js)
@@ -215,6 +215,7 @@
 - [키패드 누르기](./Programmers/Lv1/%ED%82%A4%ED%8C%A8%EB%93%9C%20%EB%88%84%EB%A5%B4%EA%B8%B0.js)
 - [모의고사](./Programmers/Lv1/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.js)
 - [신고 결과 받기](./Programmers/Lv1/%EC%8B%A0%EA%B3%A0%20%EA%B2%B0%EA%B3%BC%20%EB%B0%9B%EA%B8%B0.js)
+- [성격 유형 검사하기](./Programmers/Lv1/%EC%84%B1%EA%B2%A9%20%EC%9C%A0%ED%98%95%20%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0.js)
 - [약수의 개수와 덧셈](./Programmers/Lv1/%EC%95%BD%EC%88%98%EC%9D%98%20%EA%B0%9C%EC%88%98%EC%99%80%20%EB%8D%A7%EC%85%88.js)
 - [예산](./Programmers/Lv1/%EC%98%88%EC%82%B0.js)
 - [크레인 인형뽑기 게임](./Programmers/Lv1/%ED%81%AC%EB%A0%88%EC%9D%B8%20%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%20%EA%B2%8C%EC%9E%84.js)
@@ -235,6 +236,7 @@
 - [피로도](./Programmers/Lv2/%ED%94%BC%EB%A1%9C%EB%8F%84.js)
 - [거리두기 확인하기](./Programmers/Lv2/%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0.js)
 - [교점에 별 만들기](./Programmers/Lv2/%EA%B5%90%EC%A0%90%EC%97%90%20%EB%B3%84%20%EB%A7%8C%EB%93%A4%EA%B8%B0.js)
+- [순위 검색](./Programmers/Lv2/%EC%88%9C%EC%9C%84%20%EA%B2%80%EC%83%89.js)
 - [오픈채팅방](./Programmers/Lv2/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.js)
 - [전력망을 둘로 나누기](./Programmers/Lv2/%EC%A0%84%EB%A0%A5%EB%A7%9D%EC%9D%84%20%EB%91%98%EB%A1%9C%20%EB%82%98%EB%88%84%EA%B8%B0.js)
 - [괄호 회전하기](./Programmers/Lv2/%EA%B4%84%ED%98%B8%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.js)
@@ -249,6 +251,7 @@
 - [타겟 넘버](./Programmers/Lv2/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84.js)
 - [보석 쇼핑](./Programmers/Lv2/%EB%B3%B4%EC%84%9D%20%EC%87%BC%ED%95%91.js)
 - [괄호 변환](./Programmers/Lv2/%EA%B4%84%ED%98%B8%20%EB%B3%80%ED%99%98.js)
+- [두 큐 합 같게 만들기](./Programmers/Lv2/%EB%91%90%20%ED%81%90%20%ED%95%A9%20%EA%B0%99%EA%B2%8C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.js)
 - [게임 맵 최단거리](./Programmers/Lv2/%EA%B2%8C%EC%9E%84%20%EB%A7%B5%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC.js)
 - [[1차] 뉴스 클러스터링](./Programmers/Lv2/%5B1%EC%B0%A8%5D%20%EB%89%B4%EC%8A%A4%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81.js)
 ### Lv3

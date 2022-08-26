@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 245개
+# 현재까지 푼 문제 수: 🐥 248개
 ## BOJ
 ### Bronze
 - [2798 블랙잭](./BOJ/Bronze/2798%20%EB%B8%94%EB%9E%99%EC%9E%AD.js)
@@ -231,6 +231,7 @@
 - [3진법 뒤집기](./Programmers/Lv1/3%EC%A7%84%EB%B2%95%20%EB%92%A4%EC%A7%91%EA%B8%B0.js)
 - [2016년](./Programmers/Lv1/2016%EB%85%84.js)
 ### Lv2
+- [멀쩡한 사각형](./Programmers/Lv2/%EB%A9%80%EC%A9%A1%ED%95%9C%20%EC%82%AC%EA%B0%81%ED%98%95.js)
 - [k진수에서 소수 개수 구하기](./Programmers/Lv2/k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C%20%EC%86%8C%EC%88%98%20%EA%B0%9C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.js)
 - [조이스틱](./Programmers/Lv2/%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1.js)
 - [피로도](./Programmers/Lv2/%ED%94%BC%EB%A1%9C%EB%8F%84.js)
@@ -251,9 +252,11 @@
 - [타겟 넘버](./Programmers/Lv2/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84.js)
 - [보석 쇼핑](./Programmers/Lv2/%EB%B3%B4%EC%84%9D%20%EC%87%BC%ED%95%91.js)
 - [괄호 변환](./Programmers/Lv2/%EA%B4%84%ED%98%B8%20%EB%B3%80%ED%99%98.js)
+- [기능개발](./Programmers/Lv2/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.js)
 - [두 큐 합 같게 만들기](./Programmers/Lv2/%EB%91%90%20%ED%81%90%20%ED%95%A9%20%EA%B0%99%EA%B2%8C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.js)
 - [게임 맵 최단거리](./Programmers/Lv2/%EA%B2%8C%EC%9E%84%20%EB%A7%B5%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC.js)
 - [[1차] 뉴스 클러스터링](./Programmers/Lv2/%5B1%EC%B0%A8%5D%20%EB%89%B4%EC%8A%A4%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81.js)
+- [124 나라의 숫자](./Programmers/Lv2/124%20%EB%82%98%EB%9D%BC%EC%9D%98%20%EC%88%AB%EC%9E%90.js)
 ### Lv3
 - [디스크 컨트롤러](./Programmers/Lv3/%EB%94%94%EC%8A%A4%ED%81%AC%20%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC.js)
 - [다단계 칫솔 판매](./Programmers/Lv3/%EB%8B%A4%EB%8B%A8%EA%B3%84%20%EC%B9%AB%EC%86%94%20%ED%8C%90%EB%A7%A4.js)

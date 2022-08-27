@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 248개
+# 현재까지 푼 문제 수: 🐥 251개
 ## BOJ
 ### Bronze
 - [2798 블랙잭](./BOJ/Bronze/2798%20%EB%B8%94%EB%9E%99%EC%9E%AD.js)
@@ -233,6 +233,7 @@
 ### Lv2
 - [멀쩡한 사각형](./Programmers/Lv2/%EB%A9%80%EC%A9%A1%ED%95%9C%20%EC%82%AC%EA%B0%81%ED%98%95.js)
 - [k진수에서 소수 개수 구하기](./Programmers/Lv2/k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C%20%EC%86%8C%EC%88%98%20%EA%B0%9C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.js)
+- [올바른 괄호](./Programmers/Lv2/%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8.js)
 - [조이스틱](./Programmers/Lv2/%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1.js)
 - [피로도](./Programmers/Lv2/%ED%94%BC%EB%A1%9C%EB%8F%84.js)
 - [거리두기 확인하기](./Programmers/Lv2/%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0.js)
@@ -246,11 +247,13 @@
 - [모음 사전](./Programmers/Lv2/%EB%AA%A8%EC%9D%8C%20%EC%82%AC%EC%A0%84.js)
 - [배달](./Programmers/Lv2/%EB%B0%B0%EB%8B%AC.js)
 - [행렬 테두리 회전하기](./Programmers/Lv2/%ED%96%89%EB%A0%AC%20%ED%85%8C%EB%91%90%EB%A6%AC%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.js)
+- [짝지어 제거하기](./Programmers/Lv2/%EC%A7%9D%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.js)
 - [메뉴 리뉴얼](./Programmers/Lv2/%EB%A9%94%EB%89%B4%20%EB%A6%AC%EB%89%B4%EC%96%BC.js)
 - [주차 요금 계산](./Programmers/Lv2/%EC%A3%BC%EC%B0%A8%20%EC%9A%94%EA%B8%88%20%EA%B3%84%EC%82%B0.js)
 - [수식 최대화](./Programmers/Lv2/%EC%88%98%EC%8B%9D%20%EC%B5%9C%EB%8C%80%ED%99%94.js)
 - [타겟 넘버](./Programmers/Lv2/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84.js)
 - [보석 쇼핑](./Programmers/Lv2/%EB%B3%B4%EC%84%9D%20%EC%87%BC%ED%95%91.js)
+- [튜플](./Programmers/Lv2/%ED%8A%9C%ED%94%8C.js)
 - [괄호 변환](./Programmers/Lv2/%EA%B4%84%ED%98%B8%20%EB%B3%80%ED%99%98.js)
 - [기능개발](./Programmers/Lv2/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.js)
 - [두 큐 합 같게 만들기](./Programmers/Lv2/%EB%91%90%20%ED%81%90%20%ED%95%A9%20%EA%B0%99%EA%B2%8C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.js)

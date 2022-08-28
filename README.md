@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 253개
+# 현재까지 푼 문제 수: 🐥 255개
 ## BOJ
 ### Bronze
 - [2798 블랙잭](./BOJ/Bronze/2798%20%EB%B8%94%EB%9E%99%EC%9E%AD.js)
@@ -238,12 +238,14 @@
 - [피로도](./Programmers/Lv2/%ED%94%BC%EB%A1%9C%EB%8F%84.js)
 - [거리두기 확인하기](./Programmers/Lv2/%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0.js)
 - [교점에 별 만들기](./Programmers/Lv2/%EA%B5%90%EC%A0%90%EC%97%90%20%EB%B3%84%20%EB%A7%8C%EB%93%A4%EA%B8%B0.js)
+- [예상 대진표](./Programmers/Lv2/%EC%98%88%EC%83%81%20%EB%8C%80%EC%A7%84%ED%91%9C.js)
 - [가장 큰 수](./Programmers/Lv2/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98.js)
 - [순위 검색](./Programmers/Lv2/%EC%88%9C%EC%9C%84%20%EA%B2%80%EC%83%89.js)
 - [오픈채팅방](./Programmers/Lv2/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.js)
 - [전력망을 둘로 나누기](./Programmers/Lv2/%EC%A0%84%EB%A0%A5%EB%A7%9D%EC%9D%84%20%EB%91%98%EB%A1%9C%20%EB%82%98%EB%88%84%EA%B8%B0.js)
 - [괄호 회전하기](./Programmers/Lv2/%EA%B4%84%ED%98%B8%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.js)
 - [문자열 압축](./Programmers/Lv2/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95.js)
+- [후보키](./Programmers/Lv2/%ED%9B%84%EB%B3%B4%ED%82%A4.js)
 - [프린터](./Programmers/Lv2/%ED%94%84%EB%A6%B0%ED%84%B0.js)
 - [모음 사전](./Programmers/Lv2/%EB%AA%A8%EC%9D%8C%20%EC%82%AC%EC%A0%84.js)
 - [배달](./Programmers/Lv2/%EB%B0%B0%EB%8B%AC.js)

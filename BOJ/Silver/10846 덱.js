@@ -11,6 +11,7 @@ class Node {
   constructor(value) {
     this.value = value;
     this.next = null;
+    this.prev = null;
   }
 }
 
@@ -24,12 +25,14 @@ class Queue {
   enqueue(value) {
     const node = new Node(value);
     if (!this._head) {
+      this._head = node;
       this._tail = node;
     } else {
       node.next = this._head;
+      this._head.prev = node;
+      this._head = node;
     }
 
-    this._head = node;
     this._size += 1;
   }
 
@@ -37,11 +40,13 @@ class Queue {
     const node = new Node(value);
     if (!this._head) {
       this._head = node;
+      this._tail = node;
     } else {
       this._tail.next = node;
+      node.prev = this._tail;
+      this._tail = node;
     }
 
-    this._tail = node;
     this._size += 1;
   }
 
@@ -53,6 +58,12 @@ class Queue {
     const returnValue = this._head.value;
     this._head = this._head.next;
     this._size -= 1;
+
+    if (this._size === 0) {
+      this._head = null;
+      this._tail = null;
+    }
+
     return returnValue;
   }
 
@@ -62,8 +73,13 @@ class Queue {
     }
 
     const returnValue = this._tail.value;
-    this._tail = this._tail.next;
+    this._tail = this._tail.prev;
     this._size -= 1;
+
+    if (this._size === 0) {
+      this._head = null;
+      this._tail = null;
+    }
     return returnValue;
   }
 
@@ -107,12 +123,19 @@ for (let i = 1; i < input.length; i++) {
     case "size":
       answer.push(queue.getSize());
       break;
-    case "pop":
+    case "pop_front":
+      answer.push(queue.dequeue());
+      break;
+    case "pop_back":
       answer.push(queue.pop());
       break;
     default:
-      const [, value] = input[i].split(" ");
-      queue.push(value);
+      const [type, value] = input[i].split(" ");
+      if (type === "push_back") {
+        queue.push(value);
+      } else {
+        queue.enqueue(value);
+      }
   }
 }
 

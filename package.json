@@ -6,6 +6,7 @@
   "author": "JunHyeongB <aowlr0513@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "fs": "^0.0.1-security"
+    "fs": "^0.0.1-security",
+    "prettier": "^2.7.1"
   }
 }

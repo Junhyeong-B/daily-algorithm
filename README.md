@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 265개
+# 현재까지 푼 문제 수: 🐥 267개
 ## BOJ
 ### Bronze
 - [2798 블랙잭](./BOJ/Bronze/2798%20%EB%B8%94%EB%9E%99%EC%9E%AD.js)
@@ -218,6 +218,7 @@
 - [로또의 최고 순위와 최저 순위](./Programmers/Lv1/%EB%A1%9C%EB%98%90%EC%9D%98%20%EC%B5%9C%EA%B3%A0%20%EC%88%9C%EC%9C%84%EC%99%80%20%EC%B5%9C%EC%A0%80%20%EC%88%9C%EC%9C%84.js)
 - [부족한 금액 계산하기](./Programmers/Lv1/%EB%B6%80%EC%A1%B1%ED%95%9C%20%EA%B8%88%EC%95%A1%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0.js)
 - [숫자 문자열과 영단어](./Programmers/Lv1/%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4.js)
+- [숫자 짝꿍](./Programmers/Lv1/%EC%88%AB%EC%9E%90%20%EC%A7%9D%EA%BF%8D.js)
 - [키패드 누르기](./Programmers/Lv1/%ED%82%A4%ED%8C%A8%EB%93%9C%20%EB%88%84%EB%A5%B4%EA%B8%B0.js)
 - [크레인 인형뽑기 게임](./Programmers/Lv1/%ED%81%AC%EB%A0%88%EC%9D%B8%20%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%20%EA%B2%8C%EC%9E%84.js)
 - [같은 숫자는 싫어](./Programmers/Lv1/%EA%B0%99%EC%9D%80%20%EC%88%AB%EC%9E%90%EB%8A%94%20%EC%8B%AB%EC%96%B4.js)
@@ -251,6 +252,7 @@
 - [배달](./Programmers/Lv2/%EB%B0%B0%EB%8B%AC.js)
 - [소수 찾기](./Programmers/Lv2/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0.js)
 - [순위 검색](./Programmers/Lv2/%EC%88%9C%EC%9C%84%20%EA%B2%80%EC%83%89.js)
+- [혼자 놀기의 달인](./Programmers/Lv2/%ED%98%BC%EC%9E%90%20%EB%86%80%EA%B8%B0%EC%9D%98%20%EB%8B%AC%EC%9D%B8.js)
 - [괄호 회전하기](./Programmers/Lv2/%EA%B4%84%ED%98%B8%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.js)
 - [행렬 테두리 회전하기](./Programmers/Lv2/%ED%96%89%EB%A0%AC%20%ED%85%8C%EB%91%90%EB%A6%AC%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.js)
 - [모음 사전](./Programmers/Lv2/%EB%AA%A8%EC%9D%8C%20%EC%82%AC%EC%A0%84.js)

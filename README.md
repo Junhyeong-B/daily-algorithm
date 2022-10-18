@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 267개
+# 현재까지 푼 문제 수: 🐥 268개
 ## BOJ
 ### Bronze
 - [2798 블랙잭](./BOJ/Bronze/2798%20%EB%B8%94%EB%9E%99%EC%9E%AD.js)
@@ -195,6 +195,7 @@
 - [5. Longest Palindromic Substring(220616)](./LeetCode/Medium/5.%20Longest%20Palindromic%20Substring%28220616%29.ts)
 ### Top Interview Questions
 - [1. Two Sum](./LeetCode/Top%20Interview%20Questions/1.%20Two%20Sum.ts)
+- [38. Count and Say](./LeetCode/Top%20Interview%20Questions/38.%20Count%20and%20Say.ts)
 - [146. LRU Cache](./LeetCode/Top%20Interview%20Questions/146.%20LRU%20Cache.ts)
 ## Practice
 - [doubly-linked-list](./Practice/doubly-linked-list.ts)

@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 277개
+# 현재까지 푼 문제 수: 🐥 278개
 ## BOJ
 ### Bronze
 - [2798 블랙잭](./BOJ/Bronze/2798%20%EB%B8%94%EB%9E%99%EC%9E%AD.js)
@@ -151,6 +151,7 @@
 - [15. 3Sum](./LeetCode/Medium/15.%203Sum.js)
 - [16. 3Sum Closest](./LeetCode/Medium/16.%203Sum%20Closest.js)
 - [167. Two Sum II - Input Array Is Sorted](./LeetCode/Medium/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.js)
+- [172. Factorial Trailing Zeroes](./LeetCode/Medium/172.%20Factorial%20Trailing%20Zeroes.ts)
 - [179. Largest Number](./LeetCode/Medium/179.%20Largest%20Number.js)
 - [18. 4Sum](./LeetCode/Medium/18.%204Sum.js)
 - [187. Repeated DNA Sequences](./LeetCode/Medium/187.%20Repeated%20DNA%20Sequences.js)

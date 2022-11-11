@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 280개
+# 현재까지 푼 문제 수: 🐥 281개
 ## BOJ
 ### Bronze
 - [2798 블랙잭](./BOJ/Bronze/2798%20%EB%B8%94%EB%9E%99%EC%9E%AD.js)
@@ -31,6 +31,7 @@
 ## LeetCode
 ### Easy
 - [21. Merge Two Sorted Lists](./LeetCode/Easy/21.%20Merge%20Two%20Sorted%20Lists.ts)
+- [26. Remove Duplicates from Sorted Array](./LeetCode/Easy/26.%20Remove%20Duplicates%20from%20Sorted%20Array.ts)
 - [53. Maximum Subarray](./LeetCode/Easy/53.%20Maximum%20Subarray.js)
 - [58. Length of Last Word](./LeetCode/Easy/58.%20Length%20of%20Last%20Word.js)
 - [66. Plus One](./LeetCode/Easy/66.%20Plus%20One.ts)

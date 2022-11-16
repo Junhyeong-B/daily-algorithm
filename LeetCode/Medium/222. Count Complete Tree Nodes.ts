@@ -41,5 +41,5 @@
     new TreeNode(3, new TreeNode(6, null, null), null)
   );
 
-  console.log(countNodes(node));
+  console.log(countNodes(node)); // 7
 }

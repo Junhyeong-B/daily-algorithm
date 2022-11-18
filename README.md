@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 284개
+# 현재까지 푼 문제 수: 🐥 285개
 ## BOJ
 ### Bronze
 - [2798 블랙잭](./BOJ/Bronze/2798%20%EB%B8%94%EB%9E%99%EC%9E%AD.js)
@@ -58,6 +58,7 @@
 - [344. Reverse String](./LeetCode/Easy/344.%20Reverse%20String.ts)
 - [349. Intersection of Two Arrays](./LeetCode/Easy/349.%20Intersection%20of%20Two%20Arrays.ts)
 - [367. Valid Perfect Square](./LeetCode/Easy/367.%20Valid%20Perfect%20Square.ts)
+- [374. Guess Number Higher or Lower](./LeetCode/Easy/374.%20Guess%20Number%20Higher%20or%20Lower.ts)
 - [387. First Unique Character in a String](./LeetCode/Easy/387.%20First%20Unique%20Character%20in%20a%20String.ts)
 - [392. Is Subsequence](./LeetCode/Easy/392.%20Is%20Subsequence.ts)
 - [404. Sum of Left Leaves](./LeetCode/Easy/404.%20Sum%20of%20Left%20Leaves.ts)

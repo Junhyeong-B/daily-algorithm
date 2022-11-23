@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 289개
+# 현재까지 푼 문제 수: 🐥 290개
 ## BOJ
 ### Bronze
 - [2798 블랙잭](./BOJ/Bronze/2798%20%EB%B8%94%EB%9E%99%EC%9E%AD.js)
@@ -179,6 +179,7 @@
 - [238. Product of Array Except Self](./LeetCode/Medium/238.%20Product%20of%20Array%20Except%20Self.ts)
 - [260. Single Number III](./LeetCode/Medium/260.%20Single%20Number%20III.ts)
 - [264. Ugly Number II](./LeetCode/Medium/264.%20Ugly%20Number%20II.ts)
+- [279. Perfect Squares](./LeetCode/Medium/279.%20Perfect%20Squares.ts)
 - [284. Peeking Iterator](./LeetCode/Medium/284.%20Peeking%20Iterator.ts)
 - [287. Find the Duplicate Number](./LeetCode/Medium/287.%20Find%20the%20Duplicate%20Number.ts)
 - [289. Game of Life](./LeetCode/Medium/289.%20Game%20of%20Life.ts)

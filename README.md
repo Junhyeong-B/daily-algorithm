@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 290개
+# 현재까지 푼 문제 수: 🐥 291개
 ## BOJ
 ### Bronze
 - [2798 블랙잭](./BOJ/Bronze/2798%20%EB%B8%94%EB%9E%99%EC%9E%AD.js)
@@ -120,6 +120,7 @@
 - [31. Next Permutation](./LeetCode/Medium/31.%20Next%20Permutation.ts)
 - [33. Search in Rotated Sorted Array](./LeetCode/Medium/33.%20Search%20in%20Rotated%20Sorted%20Array.ts)
 - [34. Find First and Last Position of Element in Sorted Array](./LeetCode/Medium/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.ts)
+- [36. Valid Sudoku(ts)](./LeetCode/Medium/36.%20Valid%20Sudoku%28ts%29.ts)
 - [36. Valid Sudoku](./LeetCode/Medium/36.%20Valid%20Sudoku.js)
 - [39. Combination Sum](./LeetCode/Medium/39.%20Combination%20Sum.js)
 - [40. Combination Sum II](./LeetCode/Medium/40.%20Combination%20Sum%20II.ts)

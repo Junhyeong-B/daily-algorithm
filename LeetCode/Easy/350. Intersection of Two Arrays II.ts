@@ -3,7 +3,7 @@
  * Memory 48.8 MB Beats 5.22%
  */
 
- function intersect(nums1: number[], nums2: number[]): number[] {
+function intersect(nums1: number[], nums2: number[]): number[] {
   const map2 = nums2.reduce(
     (acc, cur) => ({ ...acc, [cur]: (acc[cur] || 0) + 1 }),
     {} as Record<number, number>
@@ -19,4 +19,4 @@
   return answer;
 }
 
-console.log(intersect([4, 9, 5], [9, 4, 9, 8, 4]));
+console.log(intersect([4, 9, 5], [9, 4, 9, 8, 4])); // [4, 9]

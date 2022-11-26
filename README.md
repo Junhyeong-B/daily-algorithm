@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 293개
+# 현재까지 푼 문제 수: 🐥 294개
 ## BOJ
 ### Bronze
 - [2798 블랙잭](./BOJ/Bronze/2798%20%EB%B8%94%EB%9E%99%EC%9E%AD.js)
@@ -39,6 +39,7 @@
 - [70. Climbing Stairs](./LeetCode/Easy/70.%20Climbing%20Stairs.ts)
 - [83. Remove Duplicates from Sorted List](./LeetCode/Easy/83.%20Remove%20Duplicates%20from%20Sorted%20List.ts)
 - [88. Merge Sorted Array](./LeetCode/Easy/88.%20Merge%20Sorted%20Array.js)
+- [94. Binary Tree Inorder Traversal](./LeetCode/Easy/94.%20Binary%20Tree%20Inorder%20Traversal.ts)
 - [118. Pascal's Triangle](./LeetCode/Easy/118.%20Pascal%27s%20Triangle.js)
 - [119. Pascal's Triangle II](./LeetCode/Easy/119.%20Pascal%27s%20Triangle%20II.js)
 - [121. Best Time to Buy and Sell Stock](./LeetCode/Easy/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.js)

@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 295개
+# 현재까지 푼 문제 수: 🐥 296개
 ## BOJ
 ### Bronze
 - [2798 블랙잭](./BOJ/Bronze/2798%20%EB%B8%94%EB%9E%99%EC%9E%AD.js)
@@ -215,6 +215,7 @@
 - [1695. Maximum Erasure Value](./LeetCode/Medium/1695.%20Maximum%20Erasure%20Value.ts)
 - [1721. Swapping Nodes in a Linked List](./LeetCode/Medium/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List.ts)
 - [1926. Nearest Exit from Entrance in Maze](./LeetCode/Medium/1926.%20Nearest%20Exit%20from%20Entrance%20in%20Maze.ts)
+- [2225. Find Players With Zero or One Losses](./LeetCode/Medium/2225.%20Find%20Players%20With%20Zero%20or%20One%20Losses.ts)
 - [240. Search a 2D Matrix II](./LeetCode/Medium/240.%20Search%20a%202D%20Matrix%20II.ts)
 - [304. Range Sum Query 2D - Immutable](./LeetCode/Medium/304.%20Range%20Sum%20Query%202D%20-%20Immutable.ts)
 - [5. Longest Palindromic Substring(220616)](./LeetCode/Medium/5.%20Longest%20Palindromic%20Substring%28220616%29.ts)

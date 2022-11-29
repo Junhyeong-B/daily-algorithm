@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 296개
+# 현재까지 푼 문제 수: 🐥 297개
 ## BOJ
 ### Bronze
 - [2798 블랙잭](./BOJ/Bronze/2798%20%EB%B8%94%EB%9E%99%EC%9E%AD.js)
@@ -218,6 +218,7 @@
 - [2225. Find Players With Zero or One Losses](./LeetCode/Medium/2225.%20Find%20Players%20With%20Zero%20or%20One%20Losses.ts)
 - [240. Search a 2D Matrix II](./LeetCode/Medium/240.%20Search%20a%202D%20Matrix%20II.ts)
 - [304. Range Sum Query 2D - Immutable](./LeetCode/Medium/304.%20Range%20Sum%20Query%202D%20-%20Immutable.ts)
+- [380. Insert Delete GetRandom O(1)](./LeetCode/Medium/380.%20Insert%20Delete%20GetRandom%20O%281%29.ts)
 - [5. Longest Palindromic Substring(220616)](./LeetCode/Medium/5.%20Longest%20Palindromic%20Substring%28220616%29.ts)
 ### Top Interview Questions
 - [1. Two Sum](./LeetCode/Top%20Interview%20Questions/1.%20Two%20Sum.ts)

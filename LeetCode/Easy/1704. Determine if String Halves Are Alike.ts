@@ -29,4 +29,4 @@ function halvesAreAlike(s: string): boolean {
   return a === b;
 }
 
-console.log(halvesAreAlike('textbook'));
+console.log(halvesAreAlike('textbook')); // false

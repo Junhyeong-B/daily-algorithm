@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 298개
+# 현재까지 푼 문제 수: 🐥 299개
 ## BOJ
 ### Bronze
 - [2798 블랙잭](./BOJ/Bronze/2798%20%EB%B8%94%EB%9E%99%EC%9E%AD.js)
@@ -212,6 +212,7 @@
 - [1338. Reduce Array Size to The Half](./LeetCode/Medium/1338.%20Reduce%20Array%20Size%20to%20The%20Half.ts)
 - [1396. Design Underground System](./LeetCode/Medium/1396.%20Design%20Underground%20System.ts)
 - [1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](./LeetCode/Medium/1465.%20Maximum%20Area%20of%20a%20Piece%20of%20Cake%20After%20Horizontal%20and%20Vertical%20Cuts.ts)
+- [1657. Determine if Two Strings Are Close](./LeetCode/Medium/1657.%20Determine%20if%20Two%20Strings%20Are%20Close.ts)
 - [1658. Minimum Operations to Reduce X to Zero](./LeetCode/Medium/1658.%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero.ts)
 - [1695. Maximum Erasure Value](./LeetCode/Medium/1695.%20Maximum%20Erasure%20Value.ts)
 - [1721. Swapping Nodes in a Linked List](./LeetCode/Medium/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List.ts)

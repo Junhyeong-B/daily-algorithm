@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 304개
+# 현재까지 푼 문제 수: 🐥 305개
 ## BOJ
 ### Bronze
 - [2798 블랙잭](./BOJ/Bronze/2798%20%EB%B8%94%EB%9E%99%EC%9E%AD.js)
@@ -214,6 +214,7 @@
 - [1029. Two City Scheduling](./LeetCode/Medium/1029.%20Two%20City%20Scheduling.ts)
 - [1239. Maximum Length of a Concatenated String with Unique Characters](./LeetCode/Medium/1239.%20Maximum%20Length%20of%20a%20Concatenated%20String%20with%20Unique%20Characters.ts)
 - [1338. Reduce Array Size to The Half](./LeetCode/Medium/1338.%20Reduce%20Array%20Size%20to%20The%20Half.ts)
+- [1339. Maximum Product of Splitted Binary Tree](./LeetCode/Medium/1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree.ts)
 - [1396. Design Underground System](./LeetCode/Medium/1396.%20Design%20Underground%20System.ts)
 - [1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](./LeetCode/Medium/1465.%20Maximum%20Area%20of%20a%20Piece%20of%20Cake%20After%20Horizontal%20and%20Vertical%20Cuts.ts)
 - [1657. Determine if Two Strings Are Close](./LeetCode/Medium/1657.%20Determine%20if%20Two%20Strings%20Are%20Close.ts)

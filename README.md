@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 315개
+# 현재까지 푼 문제 수: 🐥 316개
 ## BOJ
 ### Bronze
 - [2798 블랙잭](./BOJ/Bronze/2798%20%EB%B8%94%EB%9E%99%EC%9E%AD.js)
@@ -318,6 +318,7 @@
 - [전력망을 둘로 나누기](./Programmers/Lv2/%EC%A0%84%EB%A0%A5%EB%A7%9D%EC%9D%84%20%EB%91%98%EB%A1%9C%20%EB%82%98%EB%88%84%EA%B8%B0.js)
 - [모음 사전](./Programmers/Lv2/%EB%AA%A8%EC%9D%8C%20%EC%82%AC%EC%A0%84.js)
 - [주차 요금 계산](./Programmers/Lv2/%EC%A3%BC%EC%B0%A8%20%EC%9A%94%EA%B8%88%20%EA%B3%84%EC%82%B0.js)
+- [테이블 해시 함수](./Programmers/Lv2/%ED%85%8C%EC%9D%B4%EB%B8%94%20%ED%95%B4%EC%8B%9C%20%ED%95%A8%EC%88%98.ts)
 - [후보키](./Programmers/Lv2/%ED%9B%84%EB%B3%B4%ED%82%A4.js)
 - [k진수에서 소수 개수 구하기](./Programmers/Lv2/k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C%20%EC%86%8C%EC%88%98%20%EA%B0%9C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.js)
 - [피로도](./Programmers/Lv2/%ED%94%BC%EB%A1%9C%EB%8F%84.js)

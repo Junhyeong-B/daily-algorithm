@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 321개
+# 현재까지 푼 문제 수: 🐥 322개
 ## BOJ
 ### Bronze
 - [2798 블랙잭](./BOJ/Bronze/2798%20%EB%B8%94%EB%9E%99%EC%9E%AD.js)
@@ -286,6 +286,7 @@
 - [완주하지 못한 선수](./Programmers/Lv1/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98.js)
 - [실패율](./Programmers/Lv1/%EC%8B%A4%ED%8C%A8%EC%9C%A8.js)
 - [삼총사](./Programmers/Lv1/%EC%82%BC%EC%B4%9D%EC%82%AC.js)
+- [명예의 전당 (1)](./Programmers/Lv1/%EB%AA%85%EC%98%88%EC%9D%98%20%EC%A0%84%EB%8B%B9%20%281%29.ts)
 - [나머지가 1이 되는 수 찾기](./Programmers/Lv1/%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%80%201%EC%9D%B4%20%EB%90%98%EB%8A%94%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.js)
 - [3진법 뒤집기](./Programmers/Lv1/3%EC%A7%84%EB%B2%95%20%EB%92%A4%EC%A7%91%EA%B8%B0.js)
 - [2016년](./Programmers/Lv1/2016%EB%85%84.js)

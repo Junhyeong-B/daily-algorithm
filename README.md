@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 319개
+# 현재까지 푼 문제 수: 🐥 320개
 ## BOJ
 ### Bronze
 - [2798 블랙잭](./BOJ/Bronze/2798%20%EB%B8%94%EB%9E%99%EC%9E%AD.js)
@@ -273,6 +273,7 @@
 - [모의고사](./Programmers/Lv1/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.js)
 - [크기가 작은 부분 문자열](./Programmers/Lv1/%ED%81%AC%EA%B8%B0%EA%B0%80%20%EC%9E%91%EC%9D%80%20%EB%B6%80%EB%B6%84%20%EB%AC%B8%EC%9E%90%EC%97%B4.ts)
 - [가장 가까운 같은 글자](./Programmers/Lv1/%EA%B0%80%EC%9E%A5%20%EA%B0%80%EA%B9%8C%EC%9A%B4%20%EA%B0%99%EC%9D%80%20%EA%B8%80%EC%9E%90.ts)
+- [문자열 나누기](./Programmers/Lv1/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%98%EB%88%84%EA%B8%B0.ts)
 - [폰켓몬](./Programmers/Lv1/%ED%8F%B0%EC%BC%93%EB%AA%AC.js)
 - [없는 숫자 더하기](./Programmers/Lv1/%EC%97%86%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%8D%94%ED%95%98%EA%B8%B0.js)
 - [숫자의 표현](./Programmers/Lv1/%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%91%9C%ED%98%84.js)

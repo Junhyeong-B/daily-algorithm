@@ -100,8 +100,6 @@
       answer.push(minHeap.getMin());
     }
 
-    console.log(minHeap);
-
     return answer;
   }
 

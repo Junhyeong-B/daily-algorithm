@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 324개
+# 현재까지 푼 문제 수: 🐥 325개
 ## BOJ
 ### Bronze
 - [2798 블랙잭](./BOJ/Bronze/2798%20%EB%B8%94%EB%9E%99%EC%9E%AD.js)
@@ -271,6 +271,7 @@
 - [콜라 문제](./Programmers/Lv1/%EC%BD%9C%EB%9D%BC%20%EB%AC%B8%EC%A0%9C.js)
 - [부족한 금액 계산하기](./Programmers/Lv1/%EB%B6%80%EC%A1%B1%ED%95%9C%20%EA%B8%88%EC%95%A1%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0.js)
 - [모의고사](./Programmers/Lv1/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.js)
+- [개인정보 수집 유효기간](./Programmers/Lv1/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%20%EC%88%98%EC%A7%91%20%EC%9C%A0%ED%9A%A8%EA%B8%B0%EA%B0%84.ts)
 - [크기가 작은 부분 문자열](./Programmers/Lv1/%ED%81%AC%EA%B8%B0%EA%B0%80%20%EC%9E%91%EC%9D%80%20%EB%B6%80%EB%B6%84%20%EB%AC%B8%EC%9E%90%EC%97%B4.ts)
 - [가장 가까운 같은 글자](./Programmers/Lv1/%EA%B0%80%EC%9E%A5%20%EA%B0%80%EA%B9%8C%EC%9A%B4%20%EA%B0%99%EC%9D%80%20%EA%B8%80%EC%9E%90.ts)
 - [문자열 나누기](./Programmers/Lv1/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%98%EB%88%84%EA%B8%B0.ts)

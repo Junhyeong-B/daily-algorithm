@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 329개
+# 현재까지 푼 문제 수: 🐥 330개
 ## BOJ
 ### Bronze
 - [2798 블랙잭](./BOJ/Bronze/2798%20%EB%B8%94%EB%9E%99%EC%9E%AD.js)
@@ -82,6 +82,7 @@
 - [872. Leaf-Similar Trees](./LeetCode/Easy/872.%20Leaf-Similar%20Trees.ts)
 - [897. Increasing Order Search Tree](./LeetCode/Easy/897.%20Increasing%20Order%20Search%20Tree.ts)
 - [938. Range Sum of BST](./LeetCode/Easy/938.%20Range%20Sum%20of%20BST.ts)
+- [997. Find the Town Judge](./LeetCode/Easy/997.%20Find%20the%20Town%20Judge.ts)
 - [1046. Last Stone Weight](./LeetCode/Easy/1046.%20Last%20Stone%20Weight.ts)
 - [1047. Remove All Adjacent Duplicates In String](./LeetCode/Easy/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.ts)
 - [1332. Remove Palindromic Subsequences](./LeetCode/Easy/1332.%20Remove%20Palindromic%20Subsequences.ts)

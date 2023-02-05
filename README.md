@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 339개
+# 현재까지 푼 문제 수: 🐥 340개
 ## BOJ
 ### Bronze
 - [2798 블랙잭](./BOJ/Bronze/2798%20%EB%B8%94%EB%9E%99%EC%9E%AD.js)
@@ -219,6 +219,7 @@
 - [451. Sort Characters By Frequency](./LeetCode/Medium/451.%20Sort%20Characters%20By%20Frequency.ts)
 - [491. Non-decreasing Subsequences](./LeetCode/Medium/491.%20Non-decreasing%20Subsequences.ts)
 - [523. Continuous Subarray Sum](./LeetCode/Medium/523.%20Continuous%20Subarray%20Sum.ts)
+- [567. Permutation in String](./LeetCode/Medium/567.%20Permutation%20in%20String.ts)
 - [576. Out of Boundary Paths](./LeetCode/Medium/576.%20Out%20of%20Boundary%20Paths.ts)
 - [593. Valid Square](./LeetCode/Medium/593.%20Valid%20Square.ts)
 - [665. Non-decreasing Array](./LeetCode/Medium/665.%20Non-decreasing%20Array.ts)

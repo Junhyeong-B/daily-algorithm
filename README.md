@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 357개
+# 현재까지 푼 문제 수: 🐥 358개
 ## BOJ
 ### Bronze
 - [2798 블랙잭](./BOJ/Bronze/2798%20%EB%B8%94%EB%9E%99%EC%9E%AD.js)
@@ -140,6 +140,7 @@
 - [17. Letter Combinations of a Phone Number](./LeetCode/Medium/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.js)
 - [19. Remove Nth Node From End of List](./LeetCode/Medium/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.ts)
 - [22. Generate Parentheses](./LeetCode/Medium/22.%20Generate%20Parentheses.js)
+- [24. Swap Nodes in Pairs](./LeetCode/Medium/24.%20Swap%20Nodes%20in%20Pairs.ts)
 - [29. Divide Two Integers](./LeetCode/Medium/29.%20Divide%20Two%20Integers.ts)
 - [31. Next Permutation](./LeetCode/Medium/31.%20Next%20Permutation.ts)
 - [33. Search in Rotated Sorted Array](./LeetCode/Medium/33.%20Search%20in%20Rotated%20Sorted%20Array.ts)

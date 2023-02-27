@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 359개
+# 현재까지 푼 문제 수: 🐥 360개
 ## BOJ
 ### Bronze
 - [2798 블랙잭](./BOJ/Bronze/2798%20%EB%B8%94%EB%9E%99%EC%9E%AD.js)
@@ -46,7 +46,7 @@
 - [112. Path Sum](./LeetCode/Easy/112.%20Path%20Sum.ts)
 - [118. Pascal's Triangle](./LeetCode/Easy/118.%20Pascal%27s%20Triangle.js)
 - [119. Pascal's Triangle II](./LeetCode/Easy/119.%20Pascal%27s%20Triangle%20II.js)
-- [121. Best Time to Buy and Sell Stock](./LeetCode/Easy/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.js)
+- [121. Best Time to Buy and Sell Stock](./LeetCode/Easy/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.ts)
 - [136. Single Number](./LeetCode/Easy/136.%20Single%20Number.js)
 - [168. Excel Sheet Column Title](./LeetCode/Easy/168.%20Excel%20Sheet%20Column%20Title.js)
 - [169. Majority Element](./LeetCode/Easy/169.%20Majority%20Element.js)
@@ -113,6 +113,7 @@
 - [52. N-Queens II](./LeetCode/Hard/52.%20N-Queens%20II.js)
 - [60. Permutation Sequence](./LeetCode/Hard/60.%20Permutation%20Sequence.js)
 - [68. Text Justification](./LeetCode/Hard/68.%20Text%20Justification.ts)
+- [72. Edit Distance](./LeetCode/Hard/72.%20Edit%20Distance.ts)
 - [76. Minimum Window Substring](./LeetCode/Hard/76.%20Minimum%20Window%20Substring.ts)
 - [84. Largest Rectangle in Histogram](./LeetCode/Hard/84.%20Largest%20Rectangle%20in%20Histogram.ts)
 - [123. Best Time to Buy and Sell Stock III](./LeetCode/Hard/123.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III.js)

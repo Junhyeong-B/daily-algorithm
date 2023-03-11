@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 371개
+# 현재까지 푼 문제 수: 🐥 372개
 ## BOJ
 ### Bronze
 - [2798 블랙잭](./BOJ/Bronze/2798%20%EB%B8%94%EB%9E%99%EC%9E%AD.js)
@@ -119,6 +119,7 @@
 - [72. Edit Distance](./LeetCode/Hard/72.%20Edit%20Distance.ts)
 - [76. Minimum Window Substring](./LeetCode/Hard/76.%20Minimum%20Window%20Substring.ts)
 - [84. Largest Rectangle in Histogram](./LeetCode/Hard/84.%20Largest%20Rectangle%20in%20Histogram.ts)
+- [85. Maximal Rectangle](./LeetCode/Hard/85.%20Maximal%20Rectangle.ts)
 - [123. Best Time to Buy and Sell Stock III](./LeetCode/Hard/123.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III.js)
 - [126. Word Ladder II](./LeetCode/Hard/126.%20Word%20Ladder%20II.ts)
 - [127. Word Ladder](./LeetCode/Hard/127.%20Word%20Ladder.js)

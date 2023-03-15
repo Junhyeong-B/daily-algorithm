@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 374개
+# 현재까지 푼 문제 수: 🐥 376개
 ## BOJ
 ### Bronze
 - [2798 블랙잭](./BOJ/Bronze/2798%20%EB%B8%94%EB%9E%99%EC%9E%AD.js)
@@ -15,6 +15,7 @@
 ### Silver
 - [1037 약수](./BOJ/Silver/1037%20%EC%95%BD%EC%88%98.js)
 - [1697 숨바꼭질](./BOJ/Silver/1697%20%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88.js)
+- [1912 연속합](./BOJ/Silver/1912%20%EC%97%B0%EC%86%8D%ED%95%A9.js)
 - [1978 소수 찾기](./BOJ/Silver/1978%20%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0.js)
 - [3085 사탕게임](./BOJ/Silver/3085%20%EC%82%AC%ED%83%95%EA%B2%8C%EC%9E%84.js)
 - [6588 골드바흐의 추측](./BOJ/Silver/6588%20%EA%B3%A8%EB%93%9C%EB%B0%94%ED%9D%90%EC%9D%98%20%EC%B6%94%EC%B8%A1.js)
@@ -394,6 +395,7 @@
 - [N으로 표현](./Programmers/Lv3/N%EC%9C%BC%EB%A1%9C%20%ED%91%9C%ED%98%84.js)
 - [가장 긴 팰린드롬](./Programmers/Lv3/%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC.js)
 - [가장 먼 노드](./Programmers/Lv3/%EA%B0%80%EC%9E%A5%20%EB%A8%BC%20%EB%85%B8%EB%93%9C.js)
+- [연속 펄스 부분 수열의 합](./Programmers/Lv3/%EC%97%B0%EC%86%8D%20%ED%8E%84%EC%8A%A4%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%EC%9D%98%20%ED%95%A9.ts)
 - [[카카오 인턴] 보석 쇼핑](./Programmers/Lv3/%5B%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EC%9D%B8%ED%84%B4%5D%20%EB%B3%B4%EC%84%9D%20%EC%87%BC%ED%95%91.js)
 - [다단계 칫솔 판매](./Programmers/Lv3/%EB%8B%A4%EB%8B%A8%EA%B3%84%20%EC%B9%AB%EC%86%94%20%ED%8C%90%EB%A7%A4.js)
 - [불량 사용자](./Programmers/Lv3/%EB%B6%88%EB%9F%89%20%EC%82%AC%EC%9A%A9%EC%9E%90.js)

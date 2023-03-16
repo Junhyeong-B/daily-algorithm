@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 376개
+# 현재까지 푼 문제 수: 🐥 377개
 ## BOJ
 ### Bronze
 - [2798 블랙잭](./BOJ/Bronze/2798%20%EB%B8%94%EB%9E%99%EC%9E%AD.js)
@@ -397,6 +397,7 @@
 - [가장 먼 노드](./Programmers/Lv3/%EA%B0%80%EC%9E%A5%20%EB%A8%BC%20%EB%85%B8%EB%93%9C.js)
 - [연속 펄스 부분 수열의 합](./Programmers/Lv3/%EC%97%B0%EC%86%8D%20%ED%8E%84%EC%8A%A4%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%EC%9D%98%20%ED%95%A9.ts)
 - [[카카오 인턴] 보석 쇼핑](./Programmers/Lv3/%5B%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EC%9D%B8%ED%84%B4%5D%20%EB%B3%B4%EC%84%9D%20%EC%87%BC%ED%95%91.js)
+- [인사고과](./Programmers/Lv3/%EC%9D%B8%EC%82%AC%EA%B3%A0%EA%B3%BC.ts)
 - [다단계 칫솔 판매](./Programmers/Lv3/%EB%8B%A4%EB%8B%A8%EA%B3%84%20%EC%B9%AB%EC%86%94%20%ED%8C%90%EB%A7%A4.js)
 - [불량 사용자](./Programmers/Lv3/%EB%B6%88%EB%9F%89%20%EC%82%AC%EC%9A%A9%EC%9E%90.js)
 - [N-Queen](./Programmers/Lv3/N-Queen.js)

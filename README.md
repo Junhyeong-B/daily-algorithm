@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 387개
+# 현재까지 푼 문제 수: 🐥 390개
 ## BOJ
 ### Bronze
 - [2798 블랙잭](./BOJ/Bronze/2798%20%EB%B8%94%EB%9E%99%EC%9E%AD.js)
@@ -11,6 +11,7 @@
 ### Gold
 - [1107 리모콘](./BOJ/Gold/1107%20%EB%A6%AC%EB%AA%A8%EC%BD%98.js)
 - [2629 양팔저울](./BOJ/Gold/2629%20%EC%96%91%ED%8C%94%EC%A0%80%EC%9A%B8.js)
+- [5430 AC](./BOJ/Gold/5430%20AC.js)
 - [9935 문자열 폭발](./BOJ/Gold/9935%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%ED%8F%AD%EB%B0%9C.js)
 - [16938 캠프 준비](./BOJ/Gold/16938%20%EC%BA%A0%ED%94%84%20%EC%A4%80%EB%B9%84.js)
 ### Silver
@@ -22,6 +23,8 @@
 - [1966 프린터 큐](./BOJ/Silver/1966%20%ED%94%84%EB%A6%B0%ED%84%B0%20%ED%81%90.js)
 - [1978 소수 찾기](./BOJ/Silver/1978%20%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0.js)
 - [3085 사탕게임](./BOJ/Silver/3085%20%EC%82%AC%ED%83%95%EA%B2%8C%EC%9E%84.js)
+- [4949 균형잡힌 세상](./BOJ/Silver/4949%20%EA%B7%A0%ED%98%95%EC%9E%A1%ED%9E%8C%20%EC%84%B8%EC%83%81.js)
+- [5525 IOIOI](./BOJ/Silver/5525%20IOIOI.js)
 - [6588 골드바흐의 추측](./BOJ/Silver/6588%20%EA%B3%A8%EB%93%9C%EB%B0%94%ED%9D%90%EC%9D%98%20%EC%B6%94%EC%B8%A1.js)
 - [9012 괄호](./BOJ/Silver/9012%20%EA%B4%84%ED%98%B8.js)
 - [9375 패션왕 신해빈](./BOJ/Silver/9375%20%ED%8C%A8%EC%85%98%EC%99%95%20%EC%8B%A0%ED%95%B4%EB%B9%88.js)
@@ -302,6 +305,7 @@
 - [doubly-linked-list](./Practice/doubly-linked-list.ts)
 - [queue](./Practice/queue.ts)
 - [heap](./Practice/heap.ts)
+- [deque](./Practice/deque.ts)
 - [flatten](./Practice/flatten.ts)
 - [trie](./Practice/trie.ts)
 - [shuffle](./Practice/shuffle.ts)

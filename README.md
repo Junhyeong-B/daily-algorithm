@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 390개
+# 현재까지 푼 문제 수: 🐥 392개
 ## BOJ
 ### Bronze
 - [2798 블랙잭](./BOJ/Bronze/2798%20%EB%B8%94%EB%9E%99%EC%9E%AD.js)
@@ -13,6 +13,7 @@
 - [2629 양팔저울](./BOJ/Gold/2629%20%EC%96%91%ED%8C%94%EC%A0%80%EC%9A%B8.js)
 - [5430 AC](./BOJ/Gold/5430%20AC.js)
 - [9935 문자열 폭발](./BOJ/Gold/9935%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%ED%8F%AD%EB%B0%9C.js)
+- [15591 MooTube (Silver)](./BOJ/Gold/15591%20MooTube%20%28Silver%29.js)
 - [16938 캠프 준비](./BOJ/Gold/16938%20%EC%BA%A0%ED%94%84%20%EC%A4%80%EB%B9%84.js)
 ### Silver
 - [1037 약수](./BOJ/Silver/1037%20%EC%95%BD%EC%88%98.js)
@@ -414,5 +415,6 @@
 - [연속 펄스 부분 수열의 합](./Programmers/Lv3/%EC%97%B0%EC%86%8D%20%ED%8E%84%EC%8A%A4%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%EC%9D%98%20%ED%95%A9.ts)
 - [가장 먼 노드](./Programmers/Lv3/%EA%B0%80%EC%9E%A5%20%EB%A8%BC%20%EB%85%B8%EB%93%9C.js)
 - [입국심사](./Programmers/Lv3/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC.js)
+- [등산코스 정하기](./Programmers/Lv3/%EB%93%B1%EC%82%B0%EC%BD%94%EC%8A%A4%20%EC%A0%95%ED%95%98%EA%B8%B0.ts)
 - [디스크 컨트롤러](./Programmers/Lv3/%EB%94%94%EC%8A%A4%ED%81%AC%20%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC.js)
 - [[1차] 셔틀버스](./Programmers/Lv3/%5B1%EC%B0%A8%5D%20%EC%85%94%ED%8B%80%EB%B2%84%EC%8A%A4.js)

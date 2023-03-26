@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 396개
+# 현재까지 푼 문제 수: 🐥 397개
 ## BOJ
 ### Bronze
 - [2798 블랙잭](./BOJ/Bronze/2798%20%EB%B8%94%EB%9E%99%EC%9E%AD.js)
@@ -121,6 +121,7 @@
 - [1260. Shift 2D Grid](./LeetCode/Easy/1260.%20Shift%202D%20Grid.ts)
 - [1480. Running Sum of 1d Array](./LeetCode/Easy/1480.%20Running%20Sum%20of%201d%20Array.ts)
 ### Hard
+- [4. Median of Two Sorted Arrays](./LeetCode/Hard/4.%20Median%20of%20Two%20Sorted%20Arrays.ts)
 - [10. Regular Expression Matching](./LeetCode/Hard/10.%20Regular%20Expression%20Matching.js)
 - [23. Merge k Sorted Lists](./LeetCode/Hard/23.%20Merge%20k%20Sorted%20Lists.ts)
 - [30. Substring with Concatenation of All Words](./LeetCode/Hard/30.%20Substring%20with%20Concatenation%20of%20All%20Words.ts)

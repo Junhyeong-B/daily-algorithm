@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 406개
+# 현재까지 푼 문제 수: 🐥 407개
 ## BOJ
 ### Bronze
 - [2798 블랙잭](./BOJ/Bronze/2798%20%EB%B8%94%EB%9E%99%EC%9E%AD.js)
@@ -284,6 +284,7 @@
 - [974. Subarray Sums Divisible by K](./LeetCode/Medium/974.%20Subarray%20Sums%20Divisible%20by%20K.ts)
 - [983. Minimum Cost For Tickets](./LeetCode/Medium/983.%20Minimum%20Cost%20For%20Tickets.ts)
 - [1011. Capacity To Ship Packages Within D Days](./LeetCode/Medium/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days.ts)
+- [1020. Number of Enclaves](./LeetCode/Medium/1020.%20Number%20of%20Enclaves.ts)
 - [1029. Two City Scheduling](./LeetCode/Medium/1029.%20Two%20City%20Scheduling.ts)
 - [1162. As Far from Land as Possible](./LeetCode/Medium/1162.%20As%20Far%20from%20Land%20as%20Possible.ts)
 - [1239. Maximum Length of a Concatenated String with Unique Characters](./LeetCode/Medium/1239.%20Maximum%20Length%20of%20a%20Concatenated%20String%20with%20Unique%20Characters.ts)

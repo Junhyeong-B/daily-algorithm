@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 410개
+# 현재까지 푼 문제 수: 🐥 411개
 ## BOJ
 ### Bronze
 - [2798 블랙잭](./BOJ/Bronze/2798%20%EB%B8%94%EB%9E%99%EC%9E%AD.js)
@@ -308,6 +308,7 @@
 - [2256. Minimum Average Difference](./LeetCode/Medium/2256.%20Minimum%20Average%20Difference.ts)
 - [2300. Successful Pairs of Spells and Potions](./LeetCode/Medium/2300.%20Successful%20Pairs%20of%20Spells%20and%20Potions.ts)
 - [2348. Number of Zero-Filled Subarrays](./LeetCode/Medium/2348.%20Number%20of%20Zero-Filled%20Subarrays.ts)
+- [2390. Removing Stars From a String](./LeetCode/Medium/2390.%20Removing%20Stars%20From%20a%20String.ts)
 - [240. Search a 2D Matrix II](./LeetCode/Medium/240.%20Search%20a%202D%20Matrix%20II.ts)
 - [2405. Optimal Partition of String](./LeetCode/Medium/2405.%20Optimal%20Partition%20of%20String.ts)
 - [304. Range Sum Query 2D - Immutable](./LeetCode/Medium/304.%20Range%20Sum%20Query%202D%20-%20Immutable.ts)

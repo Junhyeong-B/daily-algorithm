@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 411개
+# 현재까지 푼 문제 수: 🐥 412개
 ## BOJ
 ### Bronze
 - [2798 블랙잭](./BOJ/Bronze/2798%20%EB%B8%94%EB%9E%99%EC%9E%AD.js)
@@ -193,6 +193,7 @@
 - [62. Unique Paths](./LeetCode/Medium/62.%20Unique%20Paths.js)
 - [63. Unique Paths II](./LeetCode/Medium/63.%20Unique%20Paths%20II.js)
 - [64. Minimum Path Sum](./LeetCode/Medium/64.%20Minimum%20Path%20Sum.js)
+- [71. Simplify Path](./LeetCode/Medium/71.%20Simplify%20Path.ts)
 - [73. Set Matrix Zeroes](./LeetCode/Medium/73.%20Set%20Matrix%20Zeroes.js)
 - [75. Sort Colors](./LeetCode/Medium/75.%20Sort%20Colors.js)
 - [77. Combinations](./LeetCode/Medium/77.%20Combinations.js)

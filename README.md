@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 415개
+# 현재까지 푼 문제 수: 🐥 416개
 ## BOJ
 ### Bronze
 - [2798 블랙잭](./BOJ/Bronze/2798%20%EB%B8%94%EB%9E%99%EC%9E%AD.js)
@@ -124,6 +124,7 @@
 - [4. Median of Two Sorted Arrays](./LeetCode/Hard/4.%20Median%20of%20Two%20Sorted%20Arrays.ts)
 - [10. Regular Expression Matching](./LeetCode/Hard/10.%20Regular%20Expression%20Matching.js)
 - [23. Merge k Sorted Lists](./LeetCode/Hard/23.%20Merge%20k%20Sorted%20Lists.ts)
+- [25. Reverse Nodes in k-Group](./LeetCode/Hard/25.%20Reverse%20Nodes%20in%20k-Group.ts)
 - [30. Substring with Concatenation of All Words](./LeetCode/Hard/30.%20Substring%20with%20Concatenation%20of%20All%20Words.ts)
 - [32. Longest Valid Parentheses](./LeetCode/Hard/32.%20Longest%20Valid%20Parentheses.js)
 - [37. Sudoku Solver](./LeetCode/Hard/37.%20Sudoku%20Solver.ts)

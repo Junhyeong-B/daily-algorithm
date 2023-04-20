@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 416개
+# 현재까지 푼 문제 수: 🐥 418개
 ## BOJ
 ### Bronze
 - [2798 블랙잭](./BOJ/Bronze/2798%20%EB%B8%94%EB%9E%99%EC%9E%AD.js)
@@ -204,6 +204,7 @@
 - [79. Word Search](./LeetCode/Medium/79.%20Word%20Search.js)
 - [79. Word Search(ts)](./LeetCode/Medium/79.%20Word%20Search%28ts%29.ts)
 - [80. Remove Duplicates from Sorted Array II](./LeetCode/Medium/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.js)
+- [82. Remove Duplicates from Sorted List II](./LeetCode/Medium/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II.ts)
 - [90. Subsets II](./LeetCode/Medium/90.%20Subsets%20II.js)
 - [93. Restore IP Addresses](./LeetCode/Medium/93.%20Restore%20IP%20Addresses.js)
 - [97. Interleaving String](./LeetCode/Medium/97.%20Interleaving%20String.js)
@@ -414,6 +415,7 @@
 - [배달](./Programmers/Lv2/%EB%B0%B0%EB%8B%AC.js)
 - [순위 검색](./Programmers/Lv2/%EC%88%9C%EC%9C%84%20%EA%B2%80%EC%83%89.js)
 - [위장](./Programmers/Lv2/%EC%9C%84%EC%9E%A5.js)
+- [요격 시스템](./Programmers/Lv2/%EC%9A%94%EA%B2%A9%20%EC%8B%9C%EC%8A%A4%ED%85%9C.ts)
 - [조이스틱](./Programmers/Lv2/%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1.js)
 - [테이블 해시 함수](./Programmers/Lv2/%ED%85%8C%EC%9D%B4%EB%B8%94%20%ED%95%B4%EC%8B%9C%20%ED%95%A8%EC%88%98.ts)
 - [괄호 변환](./Programmers/Lv2/%EA%B4%84%ED%98%B8%20%EB%B3%80%ED%99%98.js)

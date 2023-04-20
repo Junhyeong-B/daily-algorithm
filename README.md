@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 418개
+# 현재까지 푼 문제 수: 🐥 419개
 ## BOJ
 ### Bronze
 - [2798 블랙잭](./BOJ/Bronze/2798%20%EB%B8%94%EB%9E%99%EC%9E%AD.js)
@@ -117,6 +117,7 @@
 - [1539. Kth Missing Positive Number](./LeetCode/Easy/1539.%20Kth%20Missing%20Positive%20Number.ts)
 - [1662. Check If Two String Arrays are Equivalent](./LeetCode/Easy/1662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent.ts)
 - [1704. Determine if String Halves Are Alike](./LeetCode/Easy/1704.%20Determine%20if%20String%20Halves%20Are%20Alike.ts)
+- [1768. Merge Strings Alternately](./LeetCode/Easy/1768.%20Merge%20Strings%20Alternately.ts)
 - [2255. Count Prefixes of a Given String](./LeetCode/Easy/2255.%20Count%20Prefixes%20of%20a%20Given%20String.ts)
 - [1260. Shift 2D Grid](./LeetCode/Easy/1260.%20Shift%202D%20Grid.ts)
 - [1480. Running Sum of 1d Array](./LeetCode/Easy/1480.%20Running%20Sum%20of%201d%20Array.ts)

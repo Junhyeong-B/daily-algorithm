@@ -1,54 +1,82 @@
-{
-  const checkOneLetterDifferent = (word1: string, word2: string) => {
-    let count = 0;
-    for (let i = 0; i < word1.length; i++) {
-      if (count > 1) {
-        return false;
-      }
+/**
+ * Runtime 97 ms Beats 55.56%
+ * Memory 46.2 MB Beats 88.89%
+ */
+function findLadders(
+  beginWord: string,
+  endWord: string,
+  wordList: string[]
+): string[][] {
+  const remainingWord = new Set(wordList);
 
-      if (word1[i] !== word2[i]) {
-        count++;
-      }
-    }
-
-    return count === 1;
+  if (!remainingWord.has(endWord)) {
+    return [];
   }
 
-  function findLadders(beginWord: string, endWord: string, wordList: string[]): string[][] {
-    const endWordIndex = wordList.indexOf(endWord);
-    if (!wordList.includes(endWord)) {
-      return [];
-    }
+  const queue = [beginWord];
+  remainingWord.delete(beginWord);
 
-    const result: string[][] = [];
-    const check = Array.from({ length: wordList.length }, () => 0);
-    let min: number = Infinity;
+  const nodes: string[][] = [];
+  let reached = false;
 
-    const dfs = (currentWord: string, check: number[], words: string[]) => {
-      if (words.length > min) {
-        return;
-      }
+  while (queue.length && !reached) {
+    nodes.push(queue.slice());
+    const len = queue.length;
+    for (let i = 0; i < len; i++) {
+      const currentNode = queue.shift()!;
 
-      if (currentWord === endWord) {
-        min = Math.min(words.length, min);
-        result.push(words);
-      } else {
-        for (let i = 0; i < wordList.length; i++) {
-          if (check[i] === 1) {
-            continue;
-          }
-
-          if (checkOneLetterDifferent(currentWord, wordList[i])) {
-            check[i] = 1;
-            dfs(wordList[i], check, [...words, wordList[i]]);
-            check[i] = 0;
-          }
+      for (const node of remainingWord) {
+        if (!checkIsDiffersBySingleLetter(currentNode, node)) {
+          continue;
         }
+
+        if (node === endWord) {
+          reached = true;
+          break;
+        }
+
+        queue.push(node);
+        remainingWord.delete(node);
       }
     }
+  }
 
-    dfs(beginWord, check, [beginWord]);
+  if (!reached) return [];
 
-    return result.filter(res => res.length === min);
-  };
+  const result = [[endWord]];
+
+  for (let i = nodes.length - 1; i >= 0; i--) {
+    const resultLen = result.length;
+
+    for (let j = 0; j < resultLen; j++) {
+      const node = result.shift()!;
+      const last = node[0];
+
+      for (const word of nodes[i]) {
+        if (!checkIsDiffersBySingleLetter(last, word)) {
+          continue;
+        }
+
+        result.push([word, ...node]);
+      }
+    }
+  }
+
+  return result;
 }
+
+function checkIsDiffersBySingleLetter(word1: string, word2: string): boolean {
+  let count = 0;
+
+  for (let i = 0; i < word1.length; i++) {
+    if (word1[i] !== word2[i]) {
+      count++;
+    }
+  }
+
+  return count === 1;
+}
+
+console.log(
+  findLadders('hit', 'cog', ['hot', 'dot', 'dog', 'lot', 'log', 'cog'])
+); // [['hit', 'hot', 'dot', 'dog', 'cog'], ['hit', 'hot', 'lot', 'log', 'cog']]

@@ -1,11 +1,2 @@
-10
-dc
-zxo
-abd
-pa
-ccc
-dc
-sad
-zxcvdq
-qteq
-abd
+5
+2 4 -10 4 -9

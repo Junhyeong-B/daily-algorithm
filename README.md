@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 425개
+# 현재까지 푼 문제 수: 🐥 426개
 ## BOJ
 ### Bronze
 - [2798 블랙잭](./BOJ/Bronze/2798%20%EB%B8%94%EB%9E%99%EC%9E%AD.js)
@@ -161,6 +161,7 @@
 - [352. Data Stream as Disjoint Intervals](./LeetCode/Hard/352.%20Data%20Stream%20as%20Disjoint%20Intervals.ts)
 - [410. Split Array Largest Sum](./LeetCode/Hard/410.%20Split%20Array%20Largest%20Sum.ts)
 - [502. IPO](./LeetCode/Hard/502.%20IPO.ts)
+- [839. Similar String Groups](./LeetCode/Hard/839.%20Similar%20String%20Groups.ts)
 - [980. Unique Paths III](./LeetCode/Hard/980.%20Unique%20Paths%20III.ts)
 - [1220. Count Vowels Permutation](./LeetCode/Hard/1220.%20Count%20Vowels%20Permutation.ts)
 - [1345. Jump Game IV](./LeetCode/Hard/1345.%20Jump%20Game%20IV.ts)

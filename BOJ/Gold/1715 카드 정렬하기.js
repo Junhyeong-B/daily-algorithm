@@ -1,12 +1,12 @@
 const fs = require('fs');
 const [_, ...input] = fs
-  .readFileSync('/dev/stdin')
+  .readFileSync('./stdin.txt')
   .toString()
   .trim()
   .split('\n')
   .map((n) => +n);
 
-class MinAbsHeap {
+class MinHeap {
   constructor() {
     this.values = [];
   }
@@ -34,17 +34,8 @@ class MinAbsHeap {
   }
 
   push(value) {
-    this.values.push({
-      abs: Math.abs(value),
-      val: value,
-    });
+    this.values.push(value);
     this.heapifyUp(this.values.length - 1);
-  }
-
-  isMinimum(index, targetIndex) {
-    return this.values[index]?.abs === this.values[targetIndex]?.abs
-      ? this.values[index]?.val < this.values[targetIndex]?.val
-      : this.values[index]?.abs < this.values[targetIndex]?.abs;
   }
 
   heapifyUp(i) {
@@ -54,7 +45,7 @@ class MinAbsHeap {
 
     let currentIndex = i;
     let parentIndex = this.getParentIndex(i);
-    while (this.isMinimum(currentIndex, parentIndex)) {
+    while (this.values[currentIndex] < this.values[parentIndex]) {
       this.swap(currentIndex, parentIndex);
       currentIndex = parentIndex;
       parentIndex = this.getParentIndex(parentIndex);
@@ -67,14 +58,14 @@ class MinAbsHeap {
     }
 
     if (this.values.length === 1) {
-      return this.values.pop().val;
+      return this.values.pop();
     }
 
     const minValue = this.values[0];
     this.values[0] = this.values.pop();
     this.heapifyDown(0);
 
-    return minValue.val;
+    return minValue;
   }
 
   heapifyDown(i) {
@@ -86,11 +77,11 @@ class MinAbsHeap {
     const leftChildIndex = this.getLeftChildIndex(i);
     const rightChildIndex = this.getRightChildIndex(i);
 
-    if (this.isMinimum(leftChildIndex, currentIndex)) {
+    if (this.values[leftChildIndex] < this.values[currentIndex]) {
       currentIndex = leftChildIndex;
     }
 
-    if (this.isMinimum(rightChildIndex, currentIndex)) {
+    if (this.values[rightChildIndex] < this.values[currentIndex]) {
       currentIndex = rightChildIndex;
     }
 
@@ -99,17 +90,25 @@ class MinAbsHeap {
       this.heapifyDown(currentIndex);
     }
   }
-}
 
-const minHeap = new MinAbsHeap();
-const result = [];
-
-for (let i = 0; i < input.length; i++) {
-  if (input[i] === 0) {
-    result.push(minHeap.pop());
-  } else {
-    minHeap.push(input[i]);
+  getSize() {
+    return this.values.length;
   }
 }
 
-console.log(result.join('\n'));
+let result = 0;
+const minHeap = new MinHeap();
+
+for (const num of input) {
+  minHeap.push(num);
+}
+
+while (minHeap.getSize() >= 2) {
+  const num1 = minHeap.pop();
+  const num2 = minHeap.pop();
+  const sum = num1 + num2;
+  result += sum;
+  minHeap.push(sum);
+}
+
+console.log(result);

@@ -2,7 +2,7 @@
 # 🚩 Javascript 코딩테스트 Repository
 - 코딩테스트 연습 저장소입니다.
 ---
-# 현재까지 푼 문제 수: 🐥 433개
+# 현재까지 푼 문제 수: 🐥 434개
 ## BOJ
 ### Bronze
 - [2798 블랙잭](./BOJ/Bronze/2798%20%EB%B8%94%EB%9E%99%EC%9E%AD.js)
@@ -10,6 +10,7 @@
 - [16968 차량 번호판 1](./BOJ/Bronze/16968%20%EC%B0%A8%EB%9F%89%20%EB%B2%88%ED%98%B8%ED%8C%90%201.js)
 ### Gold
 - [1107 리모콘](./BOJ/Gold/1107%20%EB%A6%AC%EB%AA%A8%EC%BD%98.js)
+- [1715 카드 정렬하기](./BOJ/Gold/1715%20%EC%B9%B4%EB%93%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.js)
 - [2629 양팔저울](./BOJ/Gold/2629%20%EC%96%91%ED%8C%94%EC%A0%80%EC%9A%B8.js)
 - [3190 뱀](./BOJ/Gold/3190%20%EB%B1%80.js)
 - [5430 AC](./BOJ/Gold/5430%20AC.js)

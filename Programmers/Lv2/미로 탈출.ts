@@ -1,4 +1,4 @@
-function solution(maps) {
+function solution(maps: string[]) {
   const n = maps.length;
   const m = maps[0].length;
   const directions = [
